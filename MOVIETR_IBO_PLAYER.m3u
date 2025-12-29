@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=413341&extension=ts&play_token=iKOepCVh9o|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=413342&extension=ts&play_token=HQ7gv4DNaT|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",AR| ALWAN TURKEY FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=402368&extension=ts&play_token=P36ncN3FnQ|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT 1 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79382&extension=ts&play_token=IbRAmDnm9B|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79383&extension=ts&play_token=pa8PQCkUSe|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT UHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79384&extension=ts&play_token=TVgVe5tq1x|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT WORLD FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79386&extension=ts&play_token=FC1QTx2syy|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT WORLD HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79387&extension=ts&play_token=gJJ9CTe9rW|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | ATV FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79388&extension=ts&play_token=dtZHY6pl8w|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | ATV AVRUPA
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79389&extension=ts&play_token=EvbYjRb8gl|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL D FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79390&extension=ts&play_token=l20xiBzfur|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL7 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79392&extension=ts&play_token=7pwTafxS0h|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 7 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79393&extension=ts&play_token=PQMb09Emkw|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EURO STAR
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79395&extension=ts&play_token=AbSLlnu7ht|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 7 AVRUPA
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79396&extension=ts&play_token=NgcpG6Fc5f|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SHOW TV HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79398&extension=ts&play_token=1gNQFilB76|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV 100 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=380300&extension=ts&play_token=gEDcdsE5Jw|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV8 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79401&extension=ts&play_token=EShSXr6CMt|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV8 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79402&extension=ts&play_token=OIR63D8jqj|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV8.5 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79403&extension=ts&play_token=mWoYp2xyja|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV8.5
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79404&extension=ts&play_token=kgphidcPWA|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TEVE 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79405&extension=ts&play_token=GgkTQzDgGl|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | FOX TV HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79406&extension=ts&play_token=UjGtbHvcHL|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEYAZ TV HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79407&extension=ts&play_token=z7neHK9q5i|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | POWER TURK HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79410&extension=ts&play_token=WG9OBObdME|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN GURME HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79411&extension=ts&play_token=JHbcZavv0f|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS HABER HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79412&extension=ts&play_token=iuXFnbyRje|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | A2 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79413&extension=ts&play_token=taQ9DTOSTC|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | A2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79414&extension=ts&play_token=xQgTtuDXiJ|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL B
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79415&extension=ts&play_token=q2t1JytBkC|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 23
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79416&extension=ts&play_token=iM8VCLA7Y5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 26
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79417&extension=ts&play_token=HKJ6aDsMkt|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES TURK HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79420&extension=ts&play_token=Foo4ljDugn|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES ACTION HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79421&extension=ts&play_token=RKWauj4ufa|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES ACTION 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79422&extension=ts&play_token=Iy13P5pzZq|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES PREMIERE HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79423&extension=ts&play_token=53Rf7lIVRW|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES PREMIER 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79424&extension=ts&play_token=ARdKFP69mw|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES COMEDY HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79427&extension=ts&play_token=TO1Cj1dBVl|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES STARS HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79426&extension=ts&play_token=N9S1I2Whjw|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES DRAMA HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79428&extension=ts&play_token=8NHlsSEvpD|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79431&extension=ts&play_token=1coIiqZFFk|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 4 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79430&extension=ts&play_token=QIShn2OLc7|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79433&extension=ts&play_token=wM6eMddBZa|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 3 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79432&extension=ts&play_token=hRyQqMvFIE|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398818&extension=ts&play_token=bsJ3IHRJDQ|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA YERLI
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398822&extension=ts&play_token=WOLsa9pxSp|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA YERLI 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398823&extension=ts&play_token=WsrQzVM6TA|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA AKSIYON 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398820&extension=ts&play_token=6jZ0fzpObr|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV AiLE 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79435&extension=ts&play_token=lhWUaZz6Vv|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA AILE 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398819&extension=ts&play_token=3JU6MWr1Qh|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV KOMEDi 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79436&extension=ts&play_token=NcfYGPA9wS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | DIZI SMART PREMIUM HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79447&extension=ts&play_token=gtHiVLyOF1|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | YESILCAM 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79449&extension=ts&play_token=FWZr5OxvGq|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | YESILCAM 3
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79450&extension=ts&play_token=fU0XTSHB2D|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KEMAL SUNAL 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79452&extension=ts&play_token=RpfuahB9xI|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142140&extension=ts&play_token=O3CRVKmufr|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 3
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142138&extension=ts&play_token=fHcGSN5jLA|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 1 L
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142137&extension=ts&play_token=MMu5Pgs6as|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 2 L
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142136&extension=ts&play_token=wAIJwA3aP2|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 3 L
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142135&extension=ts&play_token=fSfYD4d0pL|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 4 L
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142134&extension=ts&play_token=H4AAd6Ue2e|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 5 L
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142133&extension=ts&play_token=trEEjIGf1C|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 1 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79457&extension=ts&play_token=29cGFdfGRR|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79458&extension=ts&play_token=XWbzDhzgqs|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 2 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79459&extension=ts&play_token=SFicrlprcd|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79460&extension=ts&play_token=k21DjTBP2D|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 3 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79461&extension=ts&play_token=f2gG0DFMGq|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 4 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79463&extension=ts&play_token=cLhaBXirgD|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 4 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79464&extension=ts&play_token=TtOybASlz5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79466&extension=ts&play_token=dJ3aR9avP9|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 2 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79467&extension=ts&play_token=FtDdmH8npN|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79468&extension=ts&play_token=VcOVYEfqSS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SMART SPOR FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79469&extension=ts&play_token=uB0LDEGbOi|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SMART SPOR 2 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=150447&extension=ts&play_token=ioaFV0ArY7|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SPORTS TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79470&extension=ts&play_token=7bGnAHPP89|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TIVIBU SPOR 1 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79472&extension=ts&play_token=WEedoeCfdd|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TIVIBU SPOR 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79473&extension=ts&play_token=vmXJwFmkeg|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT SPOR HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79476&extension=ts&play_token=JEjiVI1XsH|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | A SPOR FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79481&extension=ts&play_token=yPBbNelAsn|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | A SPOR HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79482&extension=ts&play_token=SkiIMD5zHO|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EUROSPORT 2 HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79484&extension=ts&play_token=fsRs21kUaH|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | NBA TV FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79485&extension=ts&play_token=MRdj0Zxpif|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | NAT GEO WILD HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79488&extension=ts&play_token=VRybgiDVui|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | NAT GEOGRAPHIC HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79489&extension=ts&play_token=Z1nZUqkNS2|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | DISCOVERY SCIENCE HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79491&extension=ts&play_token=qPglLm2XXX|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | HISTORY CHANNEL
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79492&extension=ts&play_token=3VgDvT5Tg3|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT BELGESEL FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79495&extension=ts&play_token=XwciJlRdIS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT BELGESEL HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79496&extension=ts&play_token=yhF7ibbARL|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT DIYANET
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79497&extension=ts&play_token=jwZuHhHXAf|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | KRAL TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79502&extension=ts&play_token=mT1vHWbIMy|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | DREAM TURK
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79504&extension=ts&play_token=QI0lTQ3Fhc|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | DREAM TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79505&extension=ts&play_token=GKeT8DGquS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | CAY TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79507&extension=ts&play_token=yvmXFy5WAn|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | EKIN  TURK TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79508&extension=ts&play_token=25kP0fWvT5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | MAVI KARADENIZ
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79509&extension=ts&play_token=B6hJtJirMK|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | VATAN TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79510&extension=ts&play_token=IWpDQYMyRk|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT COCUK HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79512&extension=ts&play_token=xLK3GLbc7O|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | DISNEY JUNIOR
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79514&extension=ts&play_token=xXshhvRB02|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | A HABER HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79525&extension=ts&play_token=wmpmumMgEK|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | BLOOMBERG HT HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79526&extension=ts&play_token=knHenhOAzc|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | CNN TURK HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79527&extension=ts&play_token=5nhZztuAbJ|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | HABERTURK FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79528&extension=ts&play_token=K1bpgrZbfg|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | HABERTURK HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79529&extension=ts&play_token=ijmUYinczj|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | MEDINE TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79530&extension=ts&play_token=mo62S7Q2BO|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | SEMERKAND TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79531&extension=ts&play_token=Ho3CCLaDmi|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TGRT HABER
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79532&extension=ts&play_token=xSFEGtm1pm|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT HABER
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79533&extension=ts&play_token=EbrrNXl4Y2|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | HALK TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79537&extension=ts&play_token=3mxYGopqb1|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",TR | TV NET HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79539&extension=ts&play_token=ED5gHC3N3F|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",US | ADULT SWIM
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=328996&extension=ts&play_token=OVrSx3nu0P|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",US | MUSIC CHOICE Adult Alternative
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=330253&extension=ts&play_token=3EsyZ58dyO|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK PLUS TV
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212310&extension=ts&play_token=7j9jQMB7Xj|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK 3
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212335&extension=ts&play_token=Fte94UB9x0|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK REALITY
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212308&extension=ts&play_token=wrToJ9H9DS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK CLASSIC
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212332&extension=ts&play_token=xWL92UTUp5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK FILM
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212326&extension=ts&play_token=VZ3MD8nOSb|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK HITS 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212320&extension=ts&play_token=Cv6BSd6OMu|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK KONCERT
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212317&extension=ts&play_token=ELmefc8BCx|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK MOVIES
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212312&extension=ts&play_token=fDmyVI1fqz|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK PREMIUM HD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212309&extension=ts&play_token=8yHhOFZSdc|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK SERIJE
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212305&extension=ts&play_token=9u2DXY3TXp|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK SHOW
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212304&extension=ts&play_token=Ou9nSptFeh|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK WESTERN
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212299&extension=ts&play_token=bNtXT0hDMb|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",GR | NOVA PREMIERE PASSION
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=334999&extension=ts&play_token=S3DHt9ZFau|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",IR | PERSIANA TURKIYE
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=339782&extension=ts&play_token=avUmoIYlY5|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",IL | Turkish Dramas 2 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332216&extension=ts&play_token=yfQTprTWoY|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",IL | HOT TURKISH DRAMA 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332214&extension=ts&play_token=aBNskxpX9D|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="TURKIYE",IL | Turkish Dramas 3 FHD
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332213&extension=ts&play_token=pHPnpnh0Tk|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK ACTION
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337998&extension=ts&play_token=t6XSSEUOnr|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK BH
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337997&extension=ts&play_token=n9UTT8e96c|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK EXTRA
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337991&extension=ts&play_token=aQUEczMJFk|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FAMILY
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337990&extension=ts&play_token=7g7kh2aFAn|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FASHION
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337989&extension=ts&play_token=eroMegcnQP|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FOLK 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337987&extension=ts&play_token=YhrX26G94m|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FOLK 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337986&extension=ts&play_token=AdNpmQkRyJ|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK HITS 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337984&extension=ts&play_token=MGiW36ri99|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK HORROR
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337983&extension=ts&play_token=RNhQYk3TfN|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK KIDS
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337982&extension=ts&play_token=b5vv3vMguV|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK KONCERT
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337981&extension=ts&play_token=aCiEaChOET|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK MUSIC 2
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337976&extension=ts&play_token=vdjKCfMTSl|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK M
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337979&extension=ts&play_token=8gRawcXw7l|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK N ROLL
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337975&extension=ts&play_token=UmQRwNPHfC|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PEDIA
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337974&extension=ts&play_token=8f8AIrl9Ex|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PREMIUM
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337972&extension=ts&play_token=F7y3DNhrNq|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PLUS
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337973&extension=ts&play_token=MOwkKO7AJS|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK ROMANCE
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337970&extension=ts&play_token=H9meT6sWpg|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK S!
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337969&extension=ts&play_token=p597AcDRNI|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SCI-FI & FANTASY
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337968&extension=ts&play_token=IorpVlpi1Q|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SERIJE
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337967&extension=ts&play_token=dWRwOtEIyF|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK STYLE
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337964&extension=ts&play_token=dbZKX4pT8U|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SUPER KIDS
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337963&extension=ts&play_token=POXl4wSGU4|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SOAP
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337965&extension=ts&play_token=Bz7oTrr0h2|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK WESTERN
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337961&extension=ts&play_token=G8BkbDYsot|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 group-title="ADULT (+18)",SRB | PINK 1
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=226126&extension=ts&play_token=9ur6LTnCTL|User-Agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",12 MAYMUN 1995
+http://movie.okru.workers.dev/?ID=7292424825224&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",13 SUIKASTÇI 2010
+http://movie.okru.workers.dev/?ID=7163504306568&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",13. BÖLGEYE SALDIRI 1976
+http://movie.okru.workers.dev/?ID=7312935954824&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",14 KILIÇ 2010
+http://movie.okru.workers.dev/?ID=7163505027464&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",16. DOĞUM GÜNÜM 1984
+http://movie.okru.workers.dev/?ID=7329397811592&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",1984 (1984)
+http://movie.okru.workers.dev/?ID=7312934775176&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",2001 YAMYAM 2005
+http://movie.okru.workers.dev/?ID=7269560887688&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 AHBAP ÇAVUŞLAR OPERADA 1935
+http://movie.okru.workers.dev/?ID=7334551366024&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 APTAL 2009
+http://movie.okru.workers.dev/?ID=7691491420552&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 KÜÇÜK NINJA 1995
+http://movie.okru.workers.dev/?ID=7464256547208&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",300 SPARTALI KAHRAMAN 1962
+http://movie.okru.workers.dev/?ID=7459945523592&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",400 DÖNÜM KAN 2012
+http://movie.okru.workers.dev/?ID=7283646998920&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",5. HENRY 1944
+http://movie.okru.workers.dev/?ID=7345049840008&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7 KOCALI HÜRMÜZ (2009)
+http://movie.okru.workers.dev/?ID=7839428782472&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7 KILIÇ 2005
+http://movie.okru.workers.dev/?ID=7163505224072&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7. SÜVARI ALAYI 1956
+http://movie.okru.workers.dev/?ID=7923303328136&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",80 GÜNDE DEVRI ALEM 2004
+http://movie.okru.workers.dev/?ID=7396326320520&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",9 (2009)
+http://movie.okru.workers.dev/?ID=7469897492872&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",99. SOKAK 1953
+http://movie.okru.workers.dev/?ID=7324027791752&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",A PROJESI 1983
+http://movie.okru.workers.dev/?ID=7312921405832&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ABILENE SILAHŞÖRLERI 1960
+http://movie.okru.workers.dev/?ID=7922283129224&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACEMILER ÇETESI 1974
+http://movie.okru.workers.dev/?ID=7922434910600&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACI AY 1992
+http://movie.okru.workers.dev/?ID=7312921799048&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACIMASIZ KATIL 1989
+http://movie.okru.workers.dev/?ID=7312936020360&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADADA KATLIAM 1982
+http://movie.okru.workers.dev/?ID=7563675511176&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADADAKI HAZINE 2016
+http://movie.okru.workers.dev/?ID=7560500226440&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADALAR KRALI 1954
+http://movie.okru.workers.dev/?ID=7611616078216&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADALET İNTIKAM VE ÇÖL 1951
+http://movie.okru.workers.dev/?ID=7921876609416&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADANIN GIZEMI 2014
+http://movie.okru.workers.dev/?ID=7464068524424&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADELE'NIN OLAĞANÜSTÜ MACERALARI 2010
+http://movie.okru.workers.dev/?ID=7565650176392&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADEM VE HAVVA İLK AŞK HIKAYESI 1983
+http://movie.okru.workers.dev/?ID=7604304488840&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AF EDILMEYEN 1960
+http://movie.okru.workers.dev/?ID=7923760769416&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFACANLAR YUVADA 2003
+http://movie.okru.workers.dev/?ID=7669047175560&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFILI AYNASIZLAR 2004
+http://movie.okru.workers.dev/?ID=7396326254984&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFRIKA KRALIÇESI 1951
+http://movie.okru.workers.dev/?ID=7312920553864&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AILEM ROBOTLARA KARŞI 2021
+http://movie.okru.workers.dev/?ID=7469897427336&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AJAN 117 KAHIRE'DE 2006
+http://movie.okru.workers.dev/?ID=7396346505608&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKDENIZ 1991
+http://movie.okru.workers.dev/?ID=8139857668488&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKLIM KARIŞTI 1999
+http://movie.okru.workers.dev/?ID=7312921930120&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKREP KRAL_1 2002
+http://movie.okru.workers.dev/?ID=7396441860488&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKIL OYUNLARI 2001
+http://movie.okru.workers.dev/?ID=7658691111304&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKINTI ADALARI 1977
+http://movie.okru.workers.dev/?ID=7620833847688&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKINTIYA KARŞI 2013
+http://movie.okru.workers.dev/?ID=7269801470344&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALASKA FEDAILERI 1960
+http://movie.okru.workers.dev/?ID=7923760703880&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALI G BAŞ BELASI 2002
+http://movie.okru.workers.dev/?ID=7396442515848&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALIAS JESSE JAMES 1955
+http://movie.okru.workers.dev/?ID=7929660254600&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAH AFFEDER BEN ETMEM 1967
+http://movie.okru.workers.dev/?ID=7922402601352&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAN QUATERMAIN VE KAYIP ALTIN ŞEHRI 1986
+http://movie.okru.workers.dev/?ID=9786465069448&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAN QUATERMAIN VE SÜLEYMAN'IN HAZINESI 1985
+http://movie.okru.workers.dev/?ID=9786465134984&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALONG CAME JONES 1945
+http://movie.okru.workers.dev/?ID=7450306095496&type=movie&format=mp4&movie.mp4
