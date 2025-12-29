@@ -1,0 +1,881 @@
+#EXTM3U
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=413341&extension=ts&play_token=iKOepCVh9o
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=413342&extension=ts&play_token=HQ7gv4DNaT
+#EXTINF:-1 group-title="TURKIYE",AR| ALWAN TURKEY FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=402368&extension=ts&play_token=P36ncN3FnQ
+#EXTINF:-1 group-title="TURKIYE",TR | TRT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79382&extension=ts&play_token=IbRAmDnm9B
+#EXTINF:-1 group-title="TURKIYE",TR | TRT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79383&extension=ts&play_token=pa8PQCkUSe
+#EXTINF:-1 group-title="TURKIYE",TR | TRT UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79384&extension=ts&play_token=TVgVe5tq1x
+#EXTINF:-1 group-title="TURKIYE",TR | TRT WORLD FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79386&extension=ts&play_token=FC1QTx2syy
+#EXTINF:-1 group-title="TURKIYE",TR | TRT WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79387&extension=ts&play_token=gJJ9CTe9rW
+#EXTINF:-1 group-title="TURKIYE",TR | ATV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79388&extension=ts&play_token=dtZHY6pl8w
+#EXTINF:-1 group-title="TURKIYE",TR | ATV AVRUPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79389&extension=ts&play_token=EvbYjRb8gl
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL D FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79390&extension=ts&play_token=l20xiBzfur
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79392&extension=ts&play_token=7pwTafxS0h
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79393&extension=ts&play_token=PQMb09Emkw
+#EXTINF:-1 group-title="TURKIYE",TR | EURO STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79395&extension=ts&play_token=AbSLlnu7ht
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 7 AVRUPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79396&extension=ts&play_token=NgcpG6Fc5f
+#EXTINF:-1 group-title="TURKIYE",TR | SHOW TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79398&extension=ts&play_token=1gNQFilB76
+#EXTINF:-1 group-title="TURKIYE",TR | TV 100 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=380300&extension=ts&play_token=gEDcdsE5Jw
+#EXTINF:-1 group-title="TURKIYE",TR | TV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79401&extension=ts&play_token=EShSXr6CMt
+#EXTINF:-1 group-title="TURKIYE",TR | TV8 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79402&extension=ts&play_token=OIR63D8jqj
+#EXTINF:-1 group-title="TURKIYE",TR | TV8.5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79403&extension=ts&play_token=mWoYp2xyja
+#EXTINF:-1 group-title="TURKIYE",TR | TV8.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79404&extension=ts&play_token=kgphidcPWA
+#EXTINF:-1 group-title="TURKIYE",TR | TEVE 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79405&extension=ts&play_token=GgkTQzDgGl
+#EXTINF:-1 group-title="TURKIYE",TR | FOX TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79406&extension=ts&play_token=UjGtbHvcHL
+#EXTINF:-1 group-title="TURKIYE",TR | BEYAZ TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79407&extension=ts&play_token=z7neHK9q5i
+#EXTINF:-1 group-title="TURKIYE",TR | POWER TURK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79410&extension=ts&play_token=WG9OBObdME
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN GURME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79411&extension=ts&play_token=JHbcZavv0f
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS HABER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79412&extension=ts&play_token=iuXFnbyRje
+#EXTINF:-1 group-title="TURKIYE",TR | A2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79413&extension=ts&play_token=taQ9DTOSTC
+#EXTINF:-1 group-title="TURKIYE",TR | A2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79414&extension=ts&play_token=xQgTtuDXiJ
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79415&extension=ts&play_token=q2t1JytBkC
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79416&extension=ts&play_token=iM8VCLA7Y5
+#EXTINF:-1 group-title="TURKIYE",TR | KANAL 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79417&extension=ts&play_token=HKJ6aDsMkt
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES TURK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79420&extension=ts&play_token=Foo4ljDugn
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79421&extension=ts&play_token=RKWauj4ufa
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES ACTION 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79422&extension=ts&play_token=Iy13P5pzZq
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES PREMIERE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79423&extension=ts&play_token=53Rf7lIVRW
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES PREMIER 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79424&extension=ts&play_token=ARdKFP69mw
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES COMEDY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79427&extension=ts&play_token=TO1Cj1dBVl
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN MOVIES STARS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79426&extension=ts&play_token=N9S1I2Whjw
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES DRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79428&extension=ts&play_token=8NHlsSEvpD
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79431&extension=ts&play_token=1coIiqZFFk
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79430&extension=ts&play_token=QIShn2OLc7
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79433&extension=ts&play_token=wM6eMddBZa
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SERIES 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79432&extension=ts&play_token=hRyQqMvFIE
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398818&extension=ts&play_token=bsJ3IHRJDQ
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA YERLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398822&extension=ts&play_token=WOLsa9pxSp
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA YERLI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398823&extension=ts&play_token=WsrQzVM6TA
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA AKSIYON 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398820&extension=ts&play_token=6jZ0fzpObr
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV AiLE 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79435&extension=ts&play_token=lhWUaZz6Vv
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA AILE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=398819&extension=ts&play_token=3JU6MWr1Qh
+#EXTINF:-1 group-title="TURKIYE",TR | SINEMA TV KOMEDi 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79436&extension=ts&play_token=NcfYGPA9wS
+#EXTINF:-1 group-title="TURKIYE",TR | DIZI SMART PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79447&extension=ts&play_token=gtHiVLyOF1
+#EXTINF:-1 group-title="TURKIYE",TR | YESILCAM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79449&extension=ts&play_token=FWZr5OxvGq
+#EXTINF:-1 group-title="TURKIYE",TR | YESILCAM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79450&extension=ts&play_token=fU0XTSHB2D
+#EXTINF:-1 group-title="TURKIYE",TR | KEMAL SUNAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79452&extension=ts&play_token=RpfuahB9xI
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142140&extension=ts&play_token=O3CRVKmufr
+#EXTINF:-1 group-title="TURKIYE",TR | EXXEN SPOR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142138&extension=ts&play_token=fHcGSN5jLA
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 1 L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142137&extension=ts&play_token=MMu5Pgs6as
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 2 L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142136&extension=ts&play_token=wAIJwA3aP2
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 3 L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142135&extension=ts&play_token=fSfYD4d0pL
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 4 L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142134&extension=ts&play_token=H4AAd6Ue2e
+#EXTINF:-1 group-title="TURKIYE",TR | S SPORT PLUS 5 L
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=142133&extension=ts&play_token=trEEjIGf1C
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79457&extension=ts&play_token=29cGFdfGRR
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79458&extension=ts&play_token=XWbzDhzgqs
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79459&extension=ts&play_token=SFicrlprcd
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79460&extension=ts&play_token=k21DjTBP2D
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79461&extension=ts&play_token=f2gG0DFMGq
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79463&extension=ts&play_token=cLhaBXirgD
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79464&extension=ts&play_token=TtOybASlz5
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79466&extension=ts&play_token=dJ3aR9avP9
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79467&extension=ts&play_token=FtDdmH8npN
+#EXTINF:-1 group-title="TURKIYE",TR | BEIN SPORTS MAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79468&extension=ts&play_token=VcOVYEfqSS
+#EXTINF:-1 group-title="TURKIYE",TR | SMART SPOR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79469&extension=ts&play_token=uB0LDEGbOi
+#EXTINF:-1 group-title="TURKIYE",TR | SMART SPOR 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=150447&extension=ts&play_token=ioaFV0ArY7
+#EXTINF:-1 group-title="TURKIYE",TR | SPORTS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79470&extension=ts&play_token=7bGnAHPP89
+#EXTINF:-1 group-title="TURKIYE",TR | TIVIBU SPOR 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79472&extension=ts&play_token=WEedoeCfdd
+#EXTINF:-1 group-title="TURKIYE",TR | TIVIBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79473&extension=ts&play_token=vmXJwFmkeg
+#EXTINF:-1 group-title="TURKIYE",TR | TRT SPOR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79476&extension=ts&play_token=JEjiVI1XsH
+#EXTINF:-1 group-title="TURKIYE",TR | A SPOR FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79481&extension=ts&play_token=yPBbNelAsn
+#EXTINF:-1 group-title="TURKIYE",TR | A SPOR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79482&extension=ts&play_token=SkiIMD5zHO
+#EXTINF:-1 group-title="TURKIYE",TR | EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79484&extension=ts&play_token=fsRs21kUaH
+#EXTINF:-1 group-title="TURKIYE",TR | NBA TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79485&extension=ts&play_token=MRdj0Zxpif
+#EXTINF:-1 group-title="TURKIYE",TR | NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79488&extension=ts&play_token=VRybgiDVui
+#EXTINF:-1 group-title="TURKIYE",TR | NAT GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79489&extension=ts&play_token=Z1nZUqkNS2
+#EXTINF:-1 group-title="TURKIYE",TR | DISCOVERY SCIENCE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79491&extension=ts&play_token=qPglLm2XXX
+#EXTINF:-1 group-title="TURKIYE",TR | HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79492&extension=ts&play_token=3VgDvT5Tg3
+#EXTINF:-1 group-title="TURKIYE",TR | TRT BELGESEL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79495&extension=ts&play_token=XwciJlRdIS
+#EXTINF:-1 group-title="TURKIYE",TR | TRT BELGESEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79496&extension=ts&play_token=yhF7ibbARL
+#EXTINF:-1 group-title="TURKIYE",TR | TRT DIYANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79497&extension=ts&play_token=jwZuHhHXAf
+#EXTINF:-1 group-title="TURKIYE",TR | KRAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79502&extension=ts&play_token=mT1vHWbIMy
+#EXTINF:-1 group-title="TURKIYE",TR | DREAM TURK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79504&extension=ts&play_token=QI0lTQ3Fhc
+#EXTINF:-1 group-title="TURKIYE",TR | DREAM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79505&extension=ts&play_token=GKeT8DGquS
+#EXTINF:-1 group-title="TURKIYE",TR | CAY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79507&extension=ts&play_token=yvmXFy5WAn
+#EXTINF:-1 group-title="TURKIYE",TR | EKIN  TURK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79508&extension=ts&play_token=25kP0fWvT5
+#EXTINF:-1 group-title="TURKIYE",TR | MAVI KARADENIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79509&extension=ts&play_token=B6hJtJirMK
+#EXTINF:-1 group-title="TURKIYE",TR | VATAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79510&extension=ts&play_token=IWpDQYMyRk
+#EXTINF:-1 group-title="TURKIYE",TR | TRT COCUK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79512&extension=ts&play_token=xLK3GLbc7O
+#EXTINF:-1 group-title="TURKIYE",TR | DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79514&extension=ts&play_token=xXshhvRB02
+#EXTINF:-1 group-title="TURKIYE",TR | A HABER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79525&extension=ts&play_token=wmpmumMgEK
+#EXTINF:-1 group-title="TURKIYE",TR | BLOOMBERG HT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79526&extension=ts&play_token=knHenhOAzc
+#EXTINF:-1 group-title="TURKIYE",TR | CNN TURK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79527&extension=ts&play_token=5nhZztuAbJ
+#EXTINF:-1 group-title="TURKIYE",TR | HABERTURK FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79528&extension=ts&play_token=K1bpgrZbfg
+#EXTINF:-1 group-title="TURKIYE",TR | HABERTURK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79529&extension=ts&play_token=ijmUYinczj
+#EXTINF:-1 group-title="TURKIYE",TR | MEDINE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79530&extension=ts&play_token=mo62S7Q2BO
+#EXTINF:-1 group-title="TURKIYE",TR | SEMERKAND TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79531&extension=ts&play_token=Ho3CCLaDmi
+#EXTINF:-1 group-title="TURKIYE",TR | TGRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79532&extension=ts&play_token=xSFEGtm1pm
+#EXTINF:-1 group-title="TURKIYE",TR | TRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79533&extension=ts&play_token=EbrrNXl4Y2
+#EXTINF:-1 group-title="TURKIYE",TR | HALK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79537&extension=ts&play_token=3mxYGopqb1
+#EXTINF:-1 group-title="TURKIYE",TR | TV NET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=79539&extension=ts&play_token=ED5gHC3N3F
+#EXTINF:-1 group-title="ADULT (+18)",US | ADULT SWIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=328996&extension=ts&play_token=OVrSx3nu0P
+#EXTINF:-1 group-title="ADULT (+18)",US | MUSIC CHOICE Adult Alternative
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=330253&extension=ts&play_token=3EsyZ58dyO
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK PLUS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212310&extension=ts&play_token=7j9jQMB7Xj
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212335&extension=ts&play_token=Fte94UB9x0
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK REALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212308&extension=ts&play_token=wrToJ9H9DS
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212332&extension=ts&play_token=xWL92UTUp5
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212326&extension=ts&play_token=VZ3MD8nOSb
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK HITS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212320&extension=ts&play_token=Cv6BSd6OMu
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK KONCERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212317&extension=ts&play_token=ELmefc8BCx
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212312&extension=ts&play_token=fDmyVI1fqz
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212309&extension=ts&play_token=8yHhOFZSdc
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK SERIJE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212305&extension=ts&play_token=9u2DXY3TXp
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK SHOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212304&extension=ts&play_token=Ou9nSptFeh
+#EXTINF:-1 group-title="ADULT (+18)",EX-YU | PINK WESTERN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=212299&extension=ts&play_token=bNtXT0hDMb
+#EXTINF:-1 group-title="ADULT (+18)",GR | NOVA PREMIERE PASSION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=334999&extension=ts&play_token=S3DHt9ZFau
+#EXTINF:-1 group-title="TURKIYE",IR | PERSIANA TURKIYE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=339782&extension=ts&play_token=avUmoIYlY5
+#EXTINF:-1 group-title="TURKIYE",IL | Turkish Dramas 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332216&extension=ts&play_token=yfQTprTWoY
+#EXTINF:-1 group-title="TURKIYE",IL | HOT TURKISH DRAMA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332214&extension=ts&play_token=aBNskxpX9D
+#EXTINF:-1 group-title="TURKIYE",IL | Turkish Dramas 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=332213&extension=ts&play_token=pHPnpnh0Tk
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337998&extension=ts&play_token=t6XSSEUOnr
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK BH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337997&extension=ts&play_token=n9UTT8e96c
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337991&extension=ts&play_token=aQUEczMJFk
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337990&extension=ts&play_token=7g7kh2aFAn
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FASHION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337989&extension=ts&play_token=eroMegcnQP
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FOLK 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337987&extension=ts&play_token=YhrX26G94m
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK FOLK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337986&extension=ts&play_token=AdNpmQkRyJ
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK HITS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337984&extension=ts&play_token=MGiW36ri99
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK HORROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337983&extension=ts&play_token=RNhQYk3TfN
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337982&extension=ts&play_token=b5vv3vMguV
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK KONCERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337981&extension=ts&play_token=aCiEaChOET
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK MUSIC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337976&extension=ts&play_token=vdjKCfMTSl
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337979&extension=ts&play_token=8gRawcXw7l
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK N ROLL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337975&extension=ts&play_token=UmQRwNPHfC
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PEDIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337974&extension=ts&play_token=8f8AIrl9Ex
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337972&extension=ts&play_token=F7y3DNhrNq
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337973&extension=ts&play_token=MOwkKO7AJS
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK ROMANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337970&extension=ts&play_token=H9meT6sWpg
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK S!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337969&extension=ts&play_token=p597AcDRNI
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SCI-FI & FANTASY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337968&extension=ts&play_token=IorpVlpi1Q
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SERIJE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337967&extension=ts&play_token=dWRwOtEIyF
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK STYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337964&extension=ts&play_token=dbZKX4pT8U
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SUPER KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337963&extension=ts&play_token=POXl4wSGU4
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK SOAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337965&extension=ts&play_token=Bz7oTrr0h2
+#EXTINF:-1 group-title="ADULT (+18)",RS | PINK WESTERN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=337961&extension=ts&play_token=G8BkbDYsot
+#EXTINF:-1 group-title="ADULT (+18)",SRB | PINK 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+http://sh-1801.xyz:80/play/live.php?mac=00:1A:79:00:2F:6D&stream=226126&extension=ts&play_token=9ur6LTnCTL
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Pamali - 2022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293899.mkv&play_token=zjZMz5NeHV&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Pain Hustlers - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293896.mp4&play_token=etNEeu3oDK&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Painted Heart Twin Tribulations - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293898.mp4&play_token=Sd5ohA1LN3&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Paint - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293897.mp4&play_token=nH6sof9Fsu&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Ouija Witch (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293893.mp4&play_token=mMKAe62jqL&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Oracle - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293890.mp4&play_token=Lcs9vgCmj5&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Outpost - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293894.mp4&play_token=gHd1rDCMfr&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Organ Trail - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293892.mp4&play_token=iOes4kVP1N&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Oregon - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293891.mp4&play_token=JoqGEJu5cH&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Oppenheimer (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293889.mp4&play_token=TrZ1ajSPni&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Operation Fortune: Ruse de Guerre (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293888.mp4&play_token=JJxiYl7j5Q&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",Operacja: Soulcatcher - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293887.mp4&play_token=zvL9IHKqyb&type=movie
+#EXTINF:-1 group-title="🎬 TR DUBLAJLI FILMLER",On Sacred Ground - 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=293886.mp4&play_token=jTpQlFlxtR&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",المرأة الأعجوبة 1984 - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219365.mkv&play_token=bP496uXVNa&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",Wonder Woman - 2017
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219364.mp4&play_token=UiF54zt2do&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",War of the Worlds - 2005
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219363.mkv&play_token=MjlxloJTRH&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",فينوم: لتكن مذبحة - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219362.mp4&play_token=kAUZedq5q7&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Protégé - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219361.mkv&play_token=TM9sjSAFU8&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Patriot - 2000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219359.mkv&play_token=fCyMsSGfxS&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Matrix Revolutions - 2003
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219358.mp4&play_token=la8nD6ODap&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",ذا ماتريكس: النهضة - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219357.mp4&play_token=AgKxBsX5uO&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Matrix Reloaded - 2003
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219356.mp4&play_token=QvTMxAWIKS&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Lost Boys - 1987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219354.mkv&play_token=Gf1AHqFVKQ&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Ice Road - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219353.mkv&play_token=jBQ0TIwc3F&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",The Great Wall - 2016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219352.mkv&play_token=tOHIwmNwJ3&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",الممرضة الصالحة - 2022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219350.mp4&play_token=QnuiJHhkSe&type=movie
+#EXTINF:-1 group-title="🎬 TR 4K FILMLER",مصير الغاضبين - 2017
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=219349.mkv&play_token=hM92WynlMv&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Des vampires dans le Bronx - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201214.mkv&play_token=hIkFGV8bq5&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Sous le soleil de Riccione - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201213.mkv&play_token=jMuZpctiy0&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Tony Parker: The Final Shot - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201212.mkv&play_token=X8ow8vNRMp&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Les femmes et l'assassin - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201210.mkv&play_token=xkRRi8ZdNC&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",The Prom - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201209.mkv&play_token=clEvJKu52F&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",La Princesse de Chicago : Dans la peau d'une reine - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201208.mkv&play_token=SXXxi7IfRI&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",The Occupant - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201207.mkv&play_token=WKA7FEGc1t&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",40 ans, toujours dans le flow - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201204.mkv&play_token=995Iqb5f9l&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",The Call - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201201.mkv&play_token=drYQixcLBG&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Pole Dance : Haut les corps ! - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201199.mkv&play_token=C3p9Hzrm9V&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Que souffle la romance - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201198.mkv&play_token=ovpRZwbVdS&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",Schumacher - 2021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201196.mkv&play_token=hDKsgvvZH1&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",L'incroyable histoire de l'Île de la Rose - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201195.mkv&play_token=Ikx4G34emS&type=movie
+#EXTINF:-1 group-title="🎬 TR FILMLER",La Folie des hauteurs - 2020
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 gie 1.0.8.r3-pub-250 Safari/533.3
+#EXTHTTP:{"Cookie":"mac=00:1A:79:00:2F:6D"}
+ffmpeg http://sh-1801.xyz:80/play/movie.php?mac=00:1A:79:00:2F:6D&stream=201194.mkv&play_token=RAUbFl1b2f&type=movie
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",12 MAYMUN 1995
+http://movie.okru.workers.dev/?ID=7292424825224&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",13 SUIKASTÇI 2010
+http://movie.okru.workers.dev/?ID=7163504306568&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",13. BÖLGEYE SALDIRI 1976
+http://movie.okru.workers.dev/?ID=7312935954824&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",14 KILIÇ 2010
+http://movie.okru.workers.dev/?ID=7163505027464&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",16. DOĞUM GÜNÜM 1984
+http://movie.okru.workers.dev/?ID=7329397811592&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",1984 (1984)
+http://movie.okru.workers.dev/?ID=7312934775176&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",2001 YAMYAM 2005
+http://movie.okru.workers.dev/?ID=7269560887688&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 AHBAP ÇAVUŞLAR OPERADA 1935
+http://movie.okru.workers.dev/?ID=7334551366024&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 APTAL 2009
+http://movie.okru.workers.dev/?ID=7691491420552&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",3 KÜÇÜK NINJA 1995
+http://movie.okru.workers.dev/?ID=7464256547208&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",300 SPARTALI KAHRAMAN 1962
+http://movie.okru.workers.dev/?ID=7459945523592&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",400 DÖNÜM KAN 2012
+http://movie.okru.workers.dev/?ID=7283646998920&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",5. HENRY 1944
+http://movie.okru.workers.dev/?ID=7345049840008&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7 KOCALI HÜRMÜZ (2009)
+http://movie.okru.workers.dev/?ID=7839428782472&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7 KILIÇ 2005
+http://movie.okru.workers.dev/?ID=7163505224072&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",7. SÜVARI ALAYI 1956
+http://movie.okru.workers.dev/?ID=7923303328136&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",80 GÜNDE DEVRI ALEM 2004
+http://movie.okru.workers.dev/?ID=7396326320520&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",9 (2009)
+http://movie.okru.workers.dev/?ID=7469897492872&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",99. SOKAK 1953
+http://movie.okru.workers.dev/?ID=7324027791752&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",A PROJESI 1983
+http://movie.okru.workers.dev/?ID=7312921405832&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ABILENE SILAHŞÖRLERI 1960
+http://movie.okru.workers.dev/?ID=7922283129224&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACEMILER ÇETESI 1974
+http://movie.okru.workers.dev/?ID=7922434910600&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACI AY 1992
+http://movie.okru.workers.dev/?ID=7312921799048&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ACIMASIZ KATIL 1989
+http://movie.okru.workers.dev/?ID=7312936020360&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADADA KATLIAM 1982
+http://movie.okru.workers.dev/?ID=7563675511176&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADADAKI HAZINE 2016
+http://movie.okru.workers.dev/?ID=7560500226440&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADALAR KRALI 1954
+http://movie.okru.workers.dev/?ID=7611616078216&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADALET İNTIKAM VE ÇÖL 1951
+http://movie.okru.workers.dev/?ID=7921876609416&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADANIN GIZEMI 2014
+http://movie.okru.workers.dev/?ID=7464068524424&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADELE'NIN OLAĞANÜSTÜ MACERALARI 2010
+http://movie.okru.workers.dev/?ID=7565650176392&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ADEM VE HAVVA İLK AŞK HIKAYESI 1983
+http://movie.okru.workers.dev/?ID=7604304488840&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AF EDILMEYEN 1960
+http://movie.okru.workers.dev/?ID=7923760769416&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFACANLAR YUVADA 2003
+http://movie.okru.workers.dev/?ID=7669047175560&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFILI AYNASIZLAR 2004
+http://movie.okru.workers.dev/?ID=7396326254984&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AFRIKA KRALIÇESI 1951
+http://movie.okru.workers.dev/?ID=7312920553864&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AILEM ROBOTLARA KARŞI 2021
+http://movie.okru.workers.dev/?ID=7469897427336&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AJAN 117 KAHIRE'DE 2006
+http://movie.okru.workers.dev/?ID=7396346505608&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKDENIZ 1991
+http://movie.okru.workers.dev/?ID=8139857668488&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKLIM KARIŞTI 1999
+http://movie.okru.workers.dev/?ID=7312921930120&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKREP KRAL_1 2002
+http://movie.okru.workers.dev/?ID=7396441860488&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKIL OYUNLARI 2001
+http://movie.okru.workers.dev/?ID=7658691111304&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKINTI ADALARI 1977
+http://movie.okru.workers.dev/?ID=7620833847688&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",AKINTIYA KARŞI 2013
+http://movie.okru.workers.dev/?ID=7269801470344&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALASKA FEDAILERI 1960
+http://movie.okru.workers.dev/?ID=7923760703880&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALI G BAŞ BELASI 2002
+http://movie.okru.workers.dev/?ID=7396442515848&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALIAS JESSE JAMES 1955
+http://movie.okru.workers.dev/?ID=7929660254600&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAH AFFEDER BEN ETMEM 1967
+http://movie.okru.workers.dev/?ID=7922402601352&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAN QUATERMAIN VE KAYIP ALTIN ŞEHRI 1986
+http://movie.okru.workers.dev/?ID=9786465069448&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALLAN QUATERMAIN VE SÜLEYMAN'IN HAZINESI 1985
+http://movie.okru.workers.dev/?ID=9786465134984&type=movie&format=mp4&movie.mp4
+#EXTINF:-1 tvg-id="999" tvg-logo="" group-title="VOD FILMLER",ALONG CAME JONES 1945
+http://movie.okru.workers.dev/?ID=7450306095496&type=movie&format=mp4&movie.mp4
