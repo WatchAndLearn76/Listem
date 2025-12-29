@@ -1,0 +1,661 @@
+﻿#EXTM3U x-tvg-url=""
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="1515459" tvg-name="|AR| معلومات عن الخدمة",|AR| معلومات عن الخدمة
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1515459&extension=ts&play_token=bfNSN8HgkO|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="28939" tvg-name="beIN Sports News HD",beIN Sports News HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=28939&extension=ts&play_token=KPF0wcLL4N|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="28938" tvg-name="beIN Sports Global HD",beIN Sports Global HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=28938&extension=ts&play_token=Ja4JB81hts|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="1813397" tvg-name="beIN Sports Global HD (B)",beIN Sports Global HD (B)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1813397&extension=ts&play_token=3xhslU0mMH|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="312095" tvg-name="beIN. ULTRA UHD",beIN. ULTRA UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=312095&extension=ts&play_token=crfXskymVG|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="235750" tvg-name="beIN REPLAY FINAL UCL",beIN REPLAY FINAL UCL
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=235750&extension=ts&play_token=zzePsDq2Iy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="235755" tvg-name="beIN REPLAY FINAL FA CUP",beIN REPLAY FINAL FA CUP
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=235755&extension=ts&play_token=sSlcEeINVY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="1" tvg-name="beIN Sports 1 HD",beIN Sports 1 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1&extension=ts&play_token=gsthpY4jLW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="534831" tvg-name="beIN Sports 1 ᴴᴰ",beIN Sports 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=534831&extension=ts&play_token=s9fjpRHGzv|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="1122212" tvg-name="beIN Sports 1 Nexus",beIN Sports 1 Nexus
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1122212&extension=ts&play_token=Uto2p54T8q|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="108161" tvg-name="beIN Sports 1 HD BEE TV",beIN Sports 1 HD BEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=108161&extension=ts&play_token=7sxKPFsa4h|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="1121789" tvg-name="beIN Sports 1 APPEL",beIN Sports 1 APPEL
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121789&extension=ts&play_token=Yay0txUDX4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="272468" tvg-name="BEIN SPORTS 1 TOD",BEIN SPORTS 1 TOD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=272468&extension=ts&play_token=lKMe9q5Y4x|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT HD" tvg-id="2" tvg-name="beIN Sports 2 HD",beIN Sports 2 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2&extension=ts&play_token=LnZdijDMvE|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="274145" tvg-name="beIN SPORTS NEWS SD",beIN SPORTS NEWS SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=274145&extension=ts&play_token=WHPAdadRGI|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="274143" tvg-name="beIN SPORTS GLOBAL SD",beIN SPORTS GLOBAL SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=274143&extension=ts&play_token=peApDXZakP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="1813398" tvg-name="beIN Sports Global SD (B)",beIN Sports Global SD (B)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1813398&extension=ts&play_token=8vNNaTprqn|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="2541" tvg-name="beIN Sports 1 SD",beIN Sports 1 SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2541&extension=ts&play_token=MIIuzj7pzJ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="245836" tvg-name="beIN SPORTS 1 SD BEE TV",beIN SPORTS 1 SD BEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=245836&extension=ts&play_token=Un5XLHSti0|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="1269952" tvg-name="beIN Sports 1 Nexus SD",beIN Sports 1 Nexus SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269952&extension=ts&play_token=LiRHfnNVi8|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="2540" tvg-name="beIN Sports 2 SD",beIN Sports 2 SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2540&extension=ts&play_token=VbgcRIEY1C|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="245835" tvg-name="beIN SPORTS 2 SD BEE TV",beIN SPORTS 2 SD BEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=245835&extension=ts&play_token=WFOmkkxeHu|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="1269953" tvg-name="beIN Sports 2 Nexus SD",beIN Sports 2 Nexus SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269953&extension=ts&play_token=GfUESvdBUP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="2538" tvg-name="beIN Sports 3 SD",beIN Sports 3 SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2538&extension=ts&play_token=qI1qovnAiK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="245833" tvg-name="beIN SPORTS 3 SD BEE TV",beIN SPORTS 3 SD BEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=245833&extension=ts&play_token=DeTjWKtMhh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="1269954" tvg-name="beIN Sports 3 Nexus SD",beIN Sports 3 Nexus SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269954&extension=ts&play_token=nR2X0gwRCT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="10795" tvg-name="beIN Sports 4 SD",beIN Sports 4 SD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10795&extension=ts&play_token=Fso1w95Fpj|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT SD" tvg-id="245832" tvg-name="beIN SPORTS 4 SD BEE TV",beIN SPORTS 4 SD BEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=245832&extension=ts&play_token=Ea1KU4uRIt|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="43" tvg-name="beIN Sports Global UHD",beIN Sports Global UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=43&extension=ts&play_token=rJdvHexzyX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="22198" tvg-name="beIN SPORTS NEWS UHD",beIN SPORTS NEWS UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=22198&extension=ts&play_token=qV2KCZJ27N|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="44" tvg-name="beIN Sports News UHD",beIN Sports News UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=44&extension=ts&play_token=pm1gvJPHKB|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="22199" tvg-name="beIN SPORTS GLOBAL 4K",beIN SPORTS GLOBAL 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=22199&extension=ts&play_token=k5gas4TDjq|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="114053" tvg-name="beIN Sports 1 4K",beIN Sports 1 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=114053&extension=ts&play_token=9ErBqPR8BY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="3854" tvg-name="beIN Sports 1 UHD",beIN Sports 1 UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=3854&extension=ts&play_token=pIyDsevWj5|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="1269943" tvg-name="beIN Sports 1 Nexus 4K",beIN Sports 1 Nexus 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269943&extension=ts&play_token=QNTOiy9Qqy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="114052" tvg-name="beIN Sports 2 4K",beIN Sports 2 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=114052&extension=ts&play_token=vKK6mg2Nr0|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="3853" tvg-name="beIN Sports 2 UHD",beIN Sports 2 UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=3853&extension=ts&play_token=EdxtAIgkAJ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="1269944" tvg-name="beIN Sports 2 Nexus 4K",beIN Sports 2 Nexus 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269944&extension=ts&play_token=qNQFopWxry|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="114050" tvg-name="beIN Sports 3 4K",beIN Sports 3 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=114050&extension=ts&play_token=kppInTNeZ2|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="3851" tvg-name="beIN Sports 3 UHD",beIN Sports 3 UHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=3851&extension=ts&play_token=3GTzyLxfAJ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="1269945" tvg-name="beIN Sports 3 Nexus 4K",beIN Sports 3 Nexus 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1269945&extension=ts&play_token=fGTCpewRAe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT 4K" tvg-id="114049" tvg-name="beIN Sports 4 4K",beIN Sports 4 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=114049&extension=ts&play_token=MGnwjNSIkU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492949" tvg-name="Bein Sports 1 |-2H|",Bein Sports 1 |-2H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492949&extension=ts&play_token=lRqVUD2SFY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492950" tvg-name="Bein Sports 1 |-4H|",Bein Sports 1 |-4H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492950&extension=ts&play_token=DetqAf9G1Z|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492951" tvg-name="Bein Sports 1 |-8H|",Bein Sports 1 |-8H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492951&extension=ts&play_token=DUtbtXpJsi|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492952" tvg-name="Bein Sports 1 |-12H|",Bein Sports 1 |-12H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492952&extension=ts&play_token=MihkXaBKWL|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492953" tvg-name="Bein Sports 2 |-2H|",Bein Sports 2 |-2H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492953&extension=ts&play_token=V0ayYPtmJ4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492954" tvg-name="Bein Sports 2 |-4H|",Bein Sports 2 |-4H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492954&extension=ts&play_token=jBMOr7FK0F|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492955" tvg-name="Bein Sports 2 |-8H|",Bein Sports 2 |-8H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492955&extension=ts&play_token=A70y1CDYiN|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492956" tvg-name="Bein Sports 2 |-12H|",Bein Sports 2 |-12H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492956&extension=ts&play_token=1SSSUGcr4M|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492957" tvg-name="Bein Sports 3 |-2H|",Bein Sports 3 |-2H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492957&extension=ts&play_token=GzmDVQkxi0|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492958" tvg-name="Bein Sports 3 |-4H|",Bein Sports 3 |-4H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492958&extension=ts&play_token=qMy6z607tc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492959" tvg-name="Bein Sports 3 |-8H|",Bein Sports 3 |-8H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492959&extension=ts&play_token=3XpgaM0MCA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492960" tvg-name="Bein Sports 3 |-12H|",Bein Sports 3 |-12H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492960&extension=ts&play_token=7bV9FY6sPa|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492961" tvg-name="Bein Sports 4 |-2H|",Bein Sports 4 |-2H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492961&extension=ts&play_token=mAleZAZSdT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN SPORT DELAY" tvg-id="492962" tvg-name="Bein Sports 4 |-4H|",Bein Sports 4 |-4H|
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=492962&extension=ts&play_token=yDg1iIiu8X|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="146116" tvg-name="|FR| BEIN SPORTS ᵁᴴᴰ 1",|FR| BEIN SPORTS ᵁᴴᴰ 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=146116&extension=ts&play_token=xP1LJx3Igz|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="228" tvg-name="|FR| beIN Sports 1 ᴴᴰ",|FR| beIN Sports 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=228&extension=ts&play_token=OvoDb2hZbi|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="50148" tvg-name="|FR| beIN Sports 1 ᴴᴰ",|FR| beIN Sports 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=50148&extension=ts&play_token=X2wbdq7xqI|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="35522" tvg-name="|FR| BEIN SPORTS 1 4K",|FR| BEIN SPORTS 1 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=35522&extension=ts&play_token=O1G50n7TnS|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="12900" tvg-name="|FR| BEIN SPORT 1 ˢᴰ",|FR| BEIN SPORT 1 ˢᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=12900&extension=ts&play_token=VplXtaSUtM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="149773" tvg-name="|FR| BEIN SPORTS ᵁᴴᴰ 2",|FR| BEIN SPORTS ᵁᴴᴰ 2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149773&extension=ts&play_token=Ji3zbhnak4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="227" tvg-name="|FR| beIN Sports 2 ᴴᴰ",|FR| beIN Sports 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=227&extension=ts&play_token=nBohhnPSYf|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="50149" tvg-name="|FR| beIN Sports 2 ᴴᴰ FR",|FR| beIN Sports 2 ᴴᴰ FR
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=50149&extension=ts&play_token=n8vdpXElBu|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="35523" tvg-name="|FR| BEIN SPORTS 2 4K",|FR| BEIN SPORTS 2 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=35523&extension=ts&play_token=DmdEvIfPTr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="12899" tvg-name="|FR| BEIN SPORT 2ˢᴰ",|FR| BEIN SPORT 2ˢᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=12899&extension=ts&play_token=F84MdxDvSf|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="250663" tvg-name="|FR| BEIN SPORTS 3 ᵁᴴᴰ",|FR| BEIN SPORTS 3 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=250663&extension=ts&play_token=fnuqyT2TXG|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="226" tvg-name="|FR| beIN Sports 3 ᴴᴰ",|FR| beIN Sports 3 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=226&extension=ts&play_token=lH6AoDZxru|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="50150" tvg-name="|FR| beIN Sports 3 ᴴᴰ",|FR| beIN Sports 3 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=50150&extension=ts&play_token=545x5FRfa5|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|FR|  BEIN SPORT" tvg-id="35524" tvg-name="|FR| BEIN SPORTS 3 4K",|FR| BEIN SPORTS 3 4K
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=35524&extension=ts&play_token=CwjNhl81vw|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="149599" tvg-name="|beIN| ON DEMAND ACTION",|beIN| ON DEMAND ACTION
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149599&extension=ts&play_token=oqaAKWHQW4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="149743" tvg-name="|beIN| ON DEMAND ARABIC",|beIN| ON DEMAND ARABIC
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149743&extension=ts&play_token=7ciYm5SE0G|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="149685" tvg-name="|beIN| ON DEMAND COMEDY",|beIN| ON DEMAND COMEDY
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149685&extension=ts&play_token=znrkHeO3Op|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="149625" tvg-name="|beIN| ON DEMAND DRAMA",|beIN| ON DEMAND DRAMA
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149625&extension=ts&play_token=Z8t4eTU507|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="149626" tvg-name="|beIN| ON DEMAND KIDS",|beIN| ON DEMAND KIDS
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=149626&extension=ts&play_token=o3kHyLHrHI|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="254336" tvg-name="|beIN| FOX Movies ᵁᴴᴰ",|beIN| FOX Movies ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=254336&extension=ts&play_token=PR2M08Da3q|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="14552" tvg-name="|beIN| BBC EARTH",|beIN| BBC EARTH
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=14552&extension=ts&play_token=D44L0HqlXS|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="77012" tvg-name="|beIN|  Bein ANIMAL PLANET ᴴᴰ",|beIN|  Bein ANIMAL PLANET ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=77012&extension=ts&play_token=u2JHnHcoTy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="14553" tvg-name="|beIN| beIN Drama ᵁᴴᴰ",|beIN| beIN Drama ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=14553&extension=ts&play_token=qqZ3IK2sxO|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="2711" tvg-name="|beIN| beIN DRAMA ᴴᴰ",|beIN| beIN DRAMA ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2711&extension=ts&play_token=8WWlrrbrul|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="2530" tvg-name="|beIN| BEIN GOURMET ᴴᴰ",|beIN| BEIN GOURMET ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=2530&extension=ts&play_token=1Dp8mAImCd|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="18" tvg-name="|beIN| beIN Movies 1 ᵁᴴᴰ Premiere",|beIN| beIN Movies 1 ᵁᴴᴰ Premiere
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=18&extension=ts&play_token=HuCFKEcJoo|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="14555" tvg-name="|beIN| Star Films ᵁᴴᴰ",|beIN| Star Films ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=14555&extension=ts&play_token=CMWIkby7eD|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|AR|  BEIN ENTERTAINMENT" tvg-id="21" tvg-name="|beIN| beIN Movies 2 ᵁᴴᴰ Action",|beIN| beIN Movies 2 ᵁᴴᴰ Action
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=21&extension=ts&play_token=sUNKzm9LW8|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1353933" tvg-name="beIN Sports News HD",beIN Sports News HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1353933&extension=ts&play_token=6YcCDaOrE7|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1353934" tvg-name="beIN Sports Global HD",beIN Sports Global HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1353934&extension=ts&play_token=XZNmaBDPmB|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331234" tvg-name="|ES| beIN Sports 1",|ES| beIN Sports 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331234&extension=ts&play_token=F4owIlhghP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331235" tvg-name="|ES| beIN Sports 2",|ES| beIN Sports 2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331235&extension=ts&play_token=dg1Hoetwu5|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331236" tvg-name="|ES| beIN Sports 3",|ES| beIN Sports 3
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331236&extension=ts&play_token=n8ZVMx7bWK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331237" tvg-name="|ES| beIN Sports 4",|ES| beIN Sports 4
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331237&extension=ts&play_token=XHtwTE0QUW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331238" tvg-name="|ES| beIN Sports 5",|ES| beIN Sports 5
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331238&extension=ts&play_token=DbnL8BalTa|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331239" tvg-name="|ES| beIN Sports 6",|ES| beIN Sports 6
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331239&extension=ts&play_token=T09PsBtAwU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331240" tvg-name="|ES| beIN Sports 7",|ES| beIN Sports 7
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331240&extension=ts&play_token=B72rwRFmZR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331241" tvg-name="|ES| beIN Sports 8",|ES| beIN Sports 8
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331241&extension=ts&play_token=aCaEKgd3cX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331242" tvg-name="|ES| beIN Sports 9",|ES| beIN Sports 9
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331242&extension=ts&play_token=Sz21AcXKvi|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331243" tvg-name="|ES| BEIN SPORTS EN 1 ULTRA ᵁᴴᴰ",|ES| BEIN SPORTS EN 1 ULTRA ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331243&extension=ts&play_token=4NqHhdNest|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|ES|  BEIN SPORT" tvg-id="1331244" tvg-name="|UK| BEIN SPORTS EN 2 ULTRA ᵁᴴᴰ",|UK| BEIN SPORTS EN 2 ULTRA ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1331244&extension=ts&play_token=vjferNdisQ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510908" tvg-name="|UK| beIN Sports 1",|UK| beIN Sports 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510908&extension=ts&play_token=OZlJGhxo4C|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510909" tvg-name="|UK| beIN Sports 2",|UK| beIN Sports 2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510909&extension=ts&play_token=8bwqCMyAvU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510910" tvg-name="|UK| beIN Sports 3",|UK| beIN Sports 3
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510910&extension=ts&play_token=n8CbAXGkOh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510911" tvg-name="|UK| beIN Sports 4",|UK| beIN Sports 4
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510911&extension=ts&play_token=uFm2s8DLdZ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510912" tvg-name="|UK| beIN Sports 5",|UK| beIN Sports 5
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510912&extension=ts&play_token=JFg6qyNslc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510913" tvg-name="|UK| beIN Sports 6",|UK| beIN Sports 6
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510913&extension=ts&play_token=MSRICyPKTW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510914" tvg-name="|UK| beIN Sports 7",|UK| beIN Sports 7
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510914&extension=ts&play_token=Wn2EE20Wko|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510915" tvg-name="|UK| beIN Sports 8",|UK| beIN Sports 8
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510915&extension=ts&play_token=dcBuBXLB6i|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="510916" tvg-name="|UK| beIN Sports 9",|UK| beIN Sports 9
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=510916&extension=ts&play_token=wmnu8Q5WWu|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="73973" tvg-name="|UK| BEIN SPORTS ᴴᴰ EN 1",|UK| BEIN SPORTS ᴴᴰ EN 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=73973&extension=ts&play_token=aDI8FgmY5h|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|UK|  BEIN SPORT" tvg-id="73974" tvg-name="|UK| BEIN SPORTS ᴴᴰ EN 2",|UK| BEIN SPORTS ᴴᴰ EN 2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=73974&extension=ts&play_token=ETs0ciD82x|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10790" tvg-name="|TR| TRT 1",|TR| TRT 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10790&extension=ts&play_token=GSqVuGcUSv|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10794" tvg-name="|TR| SHOW TV",|TR| SHOW TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10794&extension=ts&play_token=kv0RaWEEST|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10762" tvg-name="|TR| KANAL D",|TR| KANAL D
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10762&extension=ts&play_token=qIiNVH3lJV|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10792" tvg-name="|TR| ATV",|TR| ATV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10792&extension=ts&play_token=YJFJ9a2FnW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10725" tvg-name="|TR| STAR TV",|TR| STAR TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10725&extension=ts&play_token=qPAR1SVbXg|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10732" tvg-name="|TR| FOX TV",|TR| FOX TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10732&extension=ts&play_token=YWqkMRCpnE|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10757" tvg-name="|TR| BEYAZ TV",|TR| BEYAZ TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10757&extension=ts&play_token=GDSpv7lrED|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10774" tvg-name="|TR| TV8",|TR| TV8
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10774&extension=ts&play_token=Vptp1dFkBk|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10773" tvg-name="|TR| TV8.5",|TR| TV8.5
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10773&extension=ts&play_token=DKfpc7Vsur|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="314614" tvg-name="|TR| TV8 INT",|TR| TV8 INT
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314614&extension=ts&play_token=gCVZDQZAZy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10763" tvg-name="|TR| KANAL 7",|TR| KANAL 7
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10763&extension=ts&play_token=SfxCx6ep5Y|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10758" tvg-name="|TR| A2",|TR| A2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10758&extension=ts&play_token=1aWFDPiIZm|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="314597" tvg-name="|TR| TRT EBA LISE",|TR| TRT EBA LISE
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314597&extension=ts&play_token=IpceQll9j3|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL" tvg-id="10775" tvg-name="|TR| TV4",|TR| TV4
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10775&extension=ts&play_token=GGeNop7gOc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196784" tvg-name="|TR|  TRT 1 ᴴᴰ",|TR|  TRT 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196784&extension=ts&play_token=NPewquIwMx|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196787" tvg-name="|TR|  SHOW TV ᴴᴰ",|TR|  SHOW TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196787&extension=ts&play_token=NdA6YlJINh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196789" tvg-name="|TR|  KANAL D ᴴᴰ",|TR|  KANAL D ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196789&extension=ts&play_token=cnu9strgSr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196786" tvg-name="|TR|  ATV ᴴᴰ",|TR|  ATV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196786&extension=ts&play_token=Ki5kLbdQe6|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196788" tvg-name="|TR|  STAR TV ᴴᴰ",|TR|  STAR TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196788&extension=ts&play_token=U2pxcncmAP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196790" tvg-name="|TR|  FOX TV ᴴᴰ",|TR|  FOX TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196790&extension=ts&play_token=xNINR9PEH7|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196794" tvg-name="|TR|  BEYAZ TV ᴴᴰ",|TR|  BEYAZ TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196794&extension=ts&play_token=lmagD7kKmp|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196791" tvg-name="|TR|  TV 8 ᴴᴰ",|TR|  TV 8 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196791&extension=ts&play_token=yZcAYlmIVl|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196792" tvg-name="|TR|  TV 8 5 ᴴᴰ",|TR|  TV 8 5 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196792&extension=ts&play_token=o0mcm0sFWe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196793" tvg-name="|TR|  A2 ᴴᴰ",|TR|  A2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196793&extension=ts&play_token=Q4rwrT9TRr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="314593" tvg-name="|TR| TV 4 ᴴᴰ",|TR| TV 4 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314593&extension=ts&play_token=wPYxdtvfkE|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196785" tvg-name="|TR|  TRT2 ᴴᴰ",|TR|  TRT2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196785&extension=ts&play_token=raWBhRPRYY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="10789" tvg-name="|TR| TRT AVAZ",|TR| TRT AVAZ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10789&extension=ts&play_token=tlu52wgFHs|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL HD" tvg-id="196814" tvg-name="|TR|  TRT KURDI ᴴᴰ",|TR|  TRT KURDI ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196814&extension=ts&play_token=L4vbNHcmuc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170669" tvg-name="|TR| TRT TURK ᵁᴴᴰ",|TR| TRT TURK ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170669&extension=ts&play_token=clK6BfgkaU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170655" tvg-name="|TR| TRT 1",|TR| TRT 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170655&extension=ts&play_token=Rk1O2La00G|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170657" tvg-name="|TR| SHOW TV ᵁᴴᴰ",|TR| SHOW TV ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170657&extension=ts&play_token=lERTTd9kmA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170658" tvg-name="|TR| KANAL D ᵁᴴᴰ",|TR| KANAL D ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170658&extension=ts&play_token=mIv2QDS1qr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170656" tvg-name="|TR| ATV ᵁᴴᴰ",|TR| ATV ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170656&extension=ts&play_token=o4ArcXV7ID|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170659" tvg-name="|TR| STAR TV ᵁᴴᴰ",|TR| STAR TV ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170659&extension=ts&play_token=FM0dVk5lFe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170660" tvg-name="|TR| FOX TV ᵁᴴᴰ",|TR| FOX TV ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170660&extension=ts&play_token=nVX2edhy3h|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170663" tvg-name="|TR| BEYAZ TV  ᵁᴴᴰ",|TR| BEYAZ TV  ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170663&extension=ts&play_token=RjVo12WsKh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170661" tvg-name="|TR| TV 8 ᵁᴴᴰ",|TR| TV 8 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170661&extension=ts&play_token=LqoX8OSTPB|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170662" tvg-name="|TR| TV 8.5 ᵁᴴᴰ",|TR| TV 8.5 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170662&extension=ts&play_token=NOe5RyW0gW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170664" tvg-name="|TR| KANAL 7 ᵁᴴᴰ",|TR| KANAL 7 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170664&extension=ts&play_token=WVBPvPk66G|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170666" tvg-name="|TR| A2 ᵁᴴᴰ",|TR| A2 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170666&extension=ts&play_token=3JR4CjCY5C|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170665" tvg-name="|TR| TEVE 2 ᵁᴴᴰ",|TR| TEVE 2 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170665&extension=ts&play_token=jTa9b7JyD6|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  ULUSAL FHD" tvg-id="170682" tvg-name="|TR| FOX CRIME ᵁᴴᴰ",|TR| FOX CRIME ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170682&extension=ts&play_token=1L5ZupvYbo|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170506" tvg-name="|TR| BEIN MOVIES PREMIER ᴴᴰ",|TR| BEIN MOVIES PREMIER ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170506&extension=ts&play_token=JuQ0pV9woy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170507" tvg-name="|TR| BEIN MOVIES PREMIERE 2 ᴴᴰ",|TR| BEIN MOVIES PREMIERE 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170507&extension=ts&play_token=iQTqo2pouQ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="27838" tvg-name="|TR| BEINMOVIES PREMIER ᴴᴰ2",|TR| BEINMOVIES PREMIER ᴴᴰ2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=27838&extension=ts&play_token=2VmSiYSBFv|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170504" tvg-name="|TR| BEIN MOVIES ACTION ᴴᴰ",|TR| BEIN MOVIES ACTION ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170504&extension=ts&play_token=BRkDzpFnX9|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170505" tvg-name="|TR| BEIN MOVIES ACTION 2 ᴴᴰ",|TR| BEIN MOVIES ACTION 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170505&extension=ts&play_token=caw8om3EHT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170508" tvg-name="|TR| BEIN MOVIES STARS ᴴᴰ",|TR| BEIN MOVIES STARS ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170508&extension=ts&play_token=y5MF0IvMPW|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170503" tvg-name="|TR| BEIN MOVIES FAMILY ᴴᴰ",|TR| BEIN MOVIES FAMILY ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170503&extension=ts&play_token=Uhj6OVEMNP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170509" tvg-name="|TR| BEIN MOVIES TURK ᴴᴰ",|TR| BEIN MOVIES TURK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170509&extension=ts&play_token=nXYFQworrv|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="12361" tvg-name="|TR| BEIN MOVIE Turk ᴴᴰ",|TR| BEIN MOVIE Turk ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=12361&extension=ts&play_token=UIin3T19gA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="12360" tvg-name="|TR| BEIN MOVIES COMEDY ᴴᴰ",|TR| BEIN MOVIES COMEDY ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=12360&extension=ts&play_token=gPohGmT2Ci|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="12359" tvg-name="|TR| BEIN MOVIES FESTIVAL ᴴᴰ",|TR| BEIN MOVIES FESTIVAL ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=12359&extension=ts&play_token=KH9EePi7iR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170512" tvg-name="|TR| BEIN SERIES SCFI ᴴᴰ",|TR| BEIN SERIES SCFI ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170512&extension=ts&play_token=iRIy6hoOFs|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170514" tvg-name="|TR|  BEIN SERIES VICE ᴴᴰ",|TR|  BEIN SERIES VICE ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170514&extension=ts&play_token=xruGdq5iKp|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SINEMA" tvg-id="170511" tvg-name="|TR| BEIN SERIES DRAMA ᴴᴰ",|TR| BEIN SERIES DRAMA ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170511&extension=ts&play_token=HusaNCZ0bH|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201801" tvg-name="|TR| DIZIAX 007 JAMES BOND",|TR| DIZIAX 007 JAMES BOND
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201801&extension=ts&play_token=B222sguNla|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201819" tvg-name="|TR| DIZIAX 13.CUMA",|TR| DIZIAX 13.CUMA
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201819&extension=ts&play_token=2On1saL8Ec|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201805" tvg-name="|TR| DIZIAX ALACAKARANLIK EFSANESI",|TR| DIZIAX ALACAKARANLIK EFSANESI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201805&extension=ts&play_token=KMCbsZOuZC|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201826" tvg-name="|TR| DIZIAX ALIEN VS PREDATOR",|TR| DIZIAX ALIEN VS PREDATOR
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201826&extension=ts&play_token=wBFb7hXe2d|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201808" tvg-name="|TR| DIZIAX BATMAN TV",|TR| DIZIAX BATMAN TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201808&extension=ts&play_token=WIXhLpJTVs|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201798" tvg-name="|TR| DIZIAX BRUCE LEE TV",|TR| DIZIAX BRUCE LEE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201798&extension=ts&play_token=kKLUAbewHE|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201829" tvg-name="|TR| DIZIAX CILGIN DERSHANE",|TR| DIZIAX CILGIN DERSHANE
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201829&extension=ts&play_token=GJFLPOJ3qn|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201802" tvg-name="|TR| DIZIAX HARRY POTTER",|TR| DIZIAX HARRY POTTER
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201802&extension=ts&play_token=uGeiiEhxlu|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201807" tvg-name="|TR| DIZIAX HOBBIT TV",|TR| DIZIAX HOBBIT TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201807&extension=ts&play_token=jebUL2MlHc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201830" tvg-name="|TR| DIZIAX KARANLIKLAR ULKESI",|TR| DIZIAX KARANLIKLAR ULKESI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201830&extension=ts&play_token=XKpEEWmpsr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201811" tvg-name="|TR| DIZIAX KARAYIP KORSANLARI",|TR| DIZIAX KARAYIP KORSANLARI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201811&extension=ts&play_token=FZntvUTBiB|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201825" tvg-name="|TR| DIZIAX MAYMUNLAR CEHENEMI",|TR| DIZIAX MAYMUNLAR CEHENEMI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201825&extension=ts&play_token=wTWqchrbHg|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201821" tvg-name="|TR| DIZIAX MUMYA",|TR| DIZIAX MUMYA
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201821&extension=ts&play_token=hbpFoLVndQ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BOX OFFICE" tvg-id="201810" tvg-name="|TR| DIZIAX ORUMCEK ADAM",|TR| DIZIAX ORUMCEK ADAM
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=201810&extension=ts&play_token=Kcxd5530D9|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="314487" tvg-name="|TR| BEIN IZ ᴴᴰ",|TR| BEIN IZ ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314487&extension=ts&play_token=9Tl28yJnWJ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="314486" tvg-name="|TR| BEIN GURME ᴴᴰ",|TR| BEIN GURME ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314486&extension=ts&play_token=6XSz2gjvjf|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="196836" tvg-name="|TR|  24 KITCHEN ᴴᴰ",|TR|  24 KITCHEN ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196836&extension=ts&play_token=vB3nhYZjUV|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="170683" tvg-name="|TR| DMAX ᵁᴴᴰ",|TR| DMAX ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170683&extension=ts&play_token=I2eNF7dVZo|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="10736" tvg-name="|TR| HISTORY",|TR| HISTORY
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10736&extension=ts&play_token=yEbLTgbcgd|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="314485" tvg-name="|TR| BBC EARTH ᴴᴰ",|TR| BBC EARTH ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314485&extension=ts&play_token=HRDN5AAv0P|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="170684" tvg-name="|TR| VIASAT HISTORY ᵁᴴᴰ",|TR| VIASAT HISTORY ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170684&extension=ts&play_token=S5PrRVgXn4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="196835" tvg-name="|TR|  VIASAT HISTORY ᴴᴰ",|TR|  VIASAT HISTORY ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196835&extension=ts&play_token=8H2eCSEsBe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="10735" tvg-name="|TR| HISTORY VIASAT",|TR| HISTORY VIASAT
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10735&extension=ts&play_token=SNtF60a49g|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="314484" tvg-name="|TR| VIASAT NATURE ᴴᴰ",|TR| VIASAT NATURE ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314484&extension=ts&play_token=9DUPFHCtT3|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="10740" tvg-name="|TR| DISCOVERY",|TR| DISCOVERY
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10740&extension=ts&play_token=8ZH1JyDF5j|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="10738" tvg-name="|TR| DISCOVERY SCIENCE",|TR| DISCOVERY SCIENCE
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10738&extension=ts&play_token=nGGrS0axrR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="185784" tvg-name="|TR| DISCOVERY IDX ᴴᴰ",|TR| DISCOVERY IDX ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=185784&extension=ts&play_token=MTTO3sWtmh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BELGESEL" tvg-id="196839" tvg-name="|TR|  DISCOVERY CHANNEL ᴴᴰ",|TR|  DISCOVERY CHANNEL ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196839&extension=ts&play_token=pXlSMBk7us|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10787" tvg-name="|TR| TRT COCUK",|TR| TRT COCUK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10787&extension=ts&play_token=IkjqkByNaU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10753" tvg-name="|TR| BOOMERANG",|TR| BOOMERANG
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10753&extension=ts&play_token=bUrhtoqoph|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="196837" tvg-name="|TR|  BOOMERANG ᴴᴰ",|TR|  BOOMERANG ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196837&extension=ts&play_token=huJDkx7Xxc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="196808" tvg-name="|TR|  TRT COCUK ᴴᴰ",|TR|  TRT COCUK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196808&extension=ts&play_token=uKHZ5eHmic|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10745" tvg-name="|TR| NICK JR",|TR| NICK JR
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10745&extension=ts&play_token=fFpvrotwXA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="314448" tvg-name="|TR| NICKTOONS",|TR| NICKTOONS
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314448&extension=ts&play_token=OwUDKj9jJe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10750" tvg-name="|TR| DISNEY JUNIOR",|TR| DISNEY JUNIOR
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10750&extension=ts&play_token=lwSjcLG6gK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10751" tvg-name="|TR| DISNEY CH",|TR| DISNEY CH
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10751&extension=ts&play_token=Xn9ttfdCdp|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10746" tvg-name="|TR| NICKELODEON",|TR| NICKELODEON
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10746&extension=ts&play_token=2ome4xjtEh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="314449" tvg-name="|TR| CBEEBIES ᴴᴰ",|TR| CBEEBIES ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314449&extension=ts&play_token=kx0vtio0T4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10748" tvg-name="|TR| MINIKA COCUK",|TR| MINIKA COCUK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10748&extension=ts&play_token=390JTxOHJl|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10747" tvg-name="|TR| MINIKA GO",|TR| MINIKA GO
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10747&extension=ts&play_token=wpVbGiSq5h|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="196838" tvg-name="|TR|  BABY TV ᴴᴰ",|TR|  BABY TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196838&extension=ts&play_token=cjBFWi0OeM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  COCUK" tvg-id="10754" tvg-name="|TR| BABY TV",|TR| BABY TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10754&extension=ts&play_token=Pgav0AYrqC|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  EXTRA" tvg-id="314443" tvg-name="|TR| LIVING SHOW 1",|TR| LIVING SHOW 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314443&extension=ts&play_token=7oABzdj5Uz|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  EXTRA" tvg-id="314444" tvg-name="|TR| LIVING SHOW 2",|TR| LIVING SHOW 2
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314444&extension=ts&play_token=2LxaAA7Lfh|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  EXTRA" tvg-id="314445" tvg-name="|TR| LIVING SHOW 3",|TR| LIVING SHOW 3
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314445&extension=ts&play_token=PqZWS8a8hy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  EXTRA" tvg-id="314446" tvg-name="|TR| LIVING SHOW 4",|TR| LIVING SHOW 4
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314446&extension=ts&play_token=k8NiGUT9Kr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="196816" tvg-name="|TR|  BEIN SPORTS HABER ᴴᴰ",|TR|  BEIN SPORTS HABER ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196816&extension=ts&play_token=SCZhWiNY1E|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10698" tvg-name="|TR| BEINSPORT 1 (ᵁᴴᴰ)",|TR| BEINSPORT 1 (ᵁᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10698&extension=ts&play_token=He6834kAZ2|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="1162637" tvg-name="|TR| BEINSPORT 1 FHD",|TR| BEINSPORT 1 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1162637&extension=ts&play_token=GPFkXeDRhs|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="1162644" tvg-name="|TR| BEINSPORT 1 HD",|TR| BEINSPORT 1 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1162644&extension=ts&play_token=1eKHiMz47e|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10701" tvg-name="|TR| BEINSPORT 1 (ᴴᴰ)",|TR| BEINSPORT 1 (ᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10701&extension=ts&play_token=nceXcHnu8S|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10697" tvg-name="|TR| BEINSPORT 2 (ᵁᴴᴰ)",|TR| BEINSPORT 2 (ᵁᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10697&extension=ts&play_token=CaUAtXh7zA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10700" tvg-name="|TR| BEINSPORT 2 (ᴴᴰ)",|TR| BEINSPORT 2 (ᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10700&extension=ts&play_token=68tAyp6VtA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10696" tvg-name="|TR| BEINSPORT 3 (ᵁᴴᴰ)",|TR| BEINSPORT 3 (ᵁᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10696&extension=ts&play_token=7E507pmLuf|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10699" tvg-name="|TR| BEINSPORT 3 (ᴴᴰ)",|TR| BEINSPORT 3 (ᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10699&extension=ts&play_token=GAa6IUO422|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="10695" tvg-name="|TR| BEINSPORT 4 (ᵁᴴᴰ)",|TR| BEINSPORT 4 (ᵁᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10695&extension=ts&play_token=lh6ajCktYX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="1162634" tvg-name="|TR| BEINSPORT 4 FHD",|TR| BEINSPORT 4 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1162634&extension=ts&play_token=62HmoBVbnQ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="1162642" tvg-name="|TR| BEINSPORT 4 HD",|TR| BEINSPORT 4 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1162642&extension=ts&play_token=AzD6qjcTSM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="44446" tvg-name="|TR| BEINSPORT 4 (ᴴᴰ)",|TR| BEINSPORT 4 (ᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=44446&extension=ts&play_token=h8HeOHj0VA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  BIEN SPORTS" tvg-id="314885" tvg-name="|TR| BEiNSPORTS 5 (ᵁᴴᴰ)",|TR| BEiNSPORTS 5 (ᵁᴴᴰ)
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314885&extension=ts&play_token=ZWSuSkBp4E|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="10689" tvg-name="|TR| S-SPORT",|TR| S-SPORT
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10689&extension=ts&play_token=A34br7Faf7|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="314883" tvg-name="|TR| S SPORT PLUS 1 ᵁᴴᴰ",|TR| S SPORT PLUS 1 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314883&extension=ts&play_token=RPGLKSJ7y6|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="314881" tvg-name="|TR| S SPORT PLUS 2 ᵁᴴᴰ",|TR| S SPORT PLUS 2 ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314881&extension=ts&play_token=FlMqAC1HGA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="196857" tvg-name="|TR|  S SPORT2 ᴴᴰ",|TR|  S SPORT2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196857&extension=ts&play_token=Q1JR5FDkj3|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="196856" tvg-name="|TR|  S SPORT ᴴᴰ",|TR|  S SPORT ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196856&extension=ts&play_token=5URgHhv2XK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170686" tvg-name="|TR| S SPORT+1 MAC SAATI",|TR| S SPORT+1 MAC SAATI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170686&extension=ts&play_token=BKHbFcF1Fe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170687" tvg-name="|TR| S SPORT+2 MAC SAATI",|TR| S SPORT+2 MAC SAATI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170687&extension=ts&play_token=C7CK7aL1KR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170688" tvg-name="|TR| S SPORT+3 MAC SAATI",|TR| S SPORT+3 MAC SAATI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170688&extension=ts&play_token=ildk4gsn9k|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170689" tvg-name="|TR| S SPORT+4 MAC SAATI",|TR| S SPORT+4 MAC SAATI
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170689&extension=ts&play_token=OisRkEnfez|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170690" tvg-name="|TR| S Sport+5 Mac Saati",|TR| S Sport+5 Mac Saati
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170690&extension=ts&play_token=pLvCpaW5mn|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="170681" tvg-name="|TR| SPOR SMART ᵁᴴᴰ",|TR| SPOR SMART ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170681&extension=ts&play_token=YSJIvTsJJ0|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="196858" tvg-name="|TR|  SPORSMART ᴴᴰ",|TR|  SPORSMART ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196858&extension=ts&play_token=TOvLTgAGAA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="10688" tvg-name="|TR| SMART SPOR 1",|TR| SMART SPOR 1
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10688&extension=ts&play_token=NRamrW2N8y|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  SPORT" tvg-id="196859" tvg-name="|TR|  SPORSMART 2 ᴴᴰ",|TR|  SPORSMART 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196859&extension=ts&play_token=wevHaBqwsM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157112" tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ",|TR| EXXEN SPORT 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157112&extension=ts&play_token=YVTdv04CIO|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157111" tvg-name="|TR| EXXEN SPORT 1 ᴴᴰ",|TR| EXXEN SPORT 1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157111&extension=ts&play_token=dxTmT0hNOC|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157114" tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ",|TR| EXXEN SPORT 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157114&extension=ts&play_token=a4BZSOKaSS|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157113" tvg-name="|TR| EXXEN SPORT 2 ᴴᴰ",|TR| EXXEN SPORT 2 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157113&extension=ts&play_token=LLirtQlIHD|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157116" tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ",|TR| EXXEN SPORT 3 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157116&extension=ts&play_token=F91LMlJEFr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157115" tvg-name="|TR| EXXEN SPORT 3 ᴴᴰ",|TR| EXXEN SPORT 3 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157115&extension=ts&play_token=Mr8Ny1Ltdv|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157117" tvg-name="|TR| EXXEN SPORT 4 ᴴᴰ",|TR| EXXEN SPORT 4 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157117&extension=ts&play_token=jm5MGi9VmU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157118" tvg-name="|TR| EXXEN SPORT 5 ᴴᴰ",|TR| EXXEN SPORT 5 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157118&extension=ts&play_token=PSOP57dtqX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157119" tvg-name="|TR| EXXEN SPORT 6 ᴴᴰ",|TR| EXXEN SPORT 6 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157119&extension=ts&play_token=3hmznSwTKD|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157120" tvg-name="|TR| EXXEN SPORT 7 ᴴᴰ",|TR| EXXEN SPORT 7 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157120&extension=ts&play_token=j6esrE9Tk6|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="157121" tvg-name="|TR| EXXEN SPORT 8 ᴴᴰ",|TR| EXXEN SPORT 8 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=157121&extension=ts&play_token=fwfIfIPdMG|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="283468" tvg-name="|TR| EXXEN SPORT 9 ᴴᴰ",|TR| EXXEN SPORT 9 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=283468&extension=ts&play_token=9KqxusEPXK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|   EXXEN SPORTS" tvg-id="283469" tvg-name="|TR| EXXEN SPORT 10 ᴴᴰ",|TR| EXXEN SPORT 10 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=283469&extension=ts&play_token=cEiirwDuCg|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1195377" tvg-name="TABii SPOR FHD",TABii SPOR FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1195377&extension=ts&play_token=DgOC2PoXXY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1195376" tvg-name="TABii SPOR HD",TABii SPOR HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1195376&extension=ts&play_token=FqSaJTZJG9|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121579" tvg-name="|TR|TABii SPOR 1 FHD",|TR|TABii SPOR 1 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121579&extension=ts&play_token=SnMKpBwr08|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121578" tvg-name="|TR|TABii SPOR 1 HD",|TR|TABii SPOR 1 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121578&extension=ts&play_token=XlpsikOSFT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121577" tvg-name="|TR|TABii SPOR 2 FHD",|TR|TABii SPOR 2 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121577&extension=ts&play_token=oQRu843Grg|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121576" tvg-name="|TR|TABii SPOR 2 HD",|TR|TABii SPOR 2 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121576&extension=ts&play_token=K1rHDkPyXX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121575" tvg-name="|TR|TABii SPOR 3 FHD",|TR|TABii SPOR 3 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121575&extension=ts&play_token=M2omPsPVEC|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121574" tvg-name="|TR|TABii SPOR 3 HD",|TR|TABii SPOR 3 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121574&extension=ts&play_token=0zcRu81geP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121573" tvg-name="|TR|TABii SPOR 4 FHD",|TR|TABii SPOR 4 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121573&extension=ts&play_token=p3zLUQ2KeO|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121572" tvg-name="|TR||TR|TABii SPOR 4 HD",|TR||TR|TABii SPOR 4 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121572&extension=ts&play_token=EqjjKwpyk2|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121571" tvg-name="|TR|TABii SPOR 5 FHD",|TR|TABii SPOR 5 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121571&extension=ts&play_token=dQT8FFmSug|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121570" tvg-name="|TR|TABii SPOR 5 HD",|TR|TABii SPOR 5 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121570&extension=ts&play_token=tplFE4vTyM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121569" tvg-name="|TR|TABii SPOR 6 FHD",|TR|TABii SPOR 6 FHD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121569&extension=ts&play_token=JNZhEtUs5g|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  TABII SPORTS" tvg-id="1121568" tvg-name="|TR|TABii SPOR 6 HD",|TR|TABii SPOR 6 HD
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1121568&extension=ts&play_token=BAMiZpTVyS|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314389" tvg-name="|TR| KANAL V",|TR| KANAL V
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314389&extension=ts&play_token=cCHh7XMS03|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314390" tvg-name="|TR| KANAL 15",|TR| KANAL 15
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314390&extension=ts&play_token=HzFj2oaqVS|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314391" tvg-name="|TR| KANAL 3",|TR| KANAL 3
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314391&extension=ts&play_token=r9Beanud27|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314392" tvg-name="|TR| HRT AKDENIZ",|TR| HRT AKDENIZ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314392&extension=ts&play_token=cuoeqcCf6z|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314393" tvg-name="|TR| ER TV",|TR| ER TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314393&extension=ts&play_token=4E1FOIcWby|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314394" tvg-name="|TR| DRT DENIZLI TV",|TR| DRT DENIZLI TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314394&extension=ts&play_token=WbhrbvWX6b|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314395" tvg-name="|TR| KANAL 23",|TR| KANAL 23
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314395&extension=ts&play_token=hizGvjnbDl|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314397" tvg-name="|TR| KON TV ᴴᴰ",|TR| KON TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314397&extension=ts&play_token=IPI3eyB4T3|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314398" tvg-name="|TR| AKSU TV",|TR| AKSU TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314398&extension=ts&play_token=sAxjHxUGwt|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314399" tvg-name="|TR| KANAL 26",|TR| KANAL 26
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314399&extension=ts&play_token=baDysnqoRt|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314400" tvg-name="|TR| KANAL 33",|TR| KANAL 33
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314400&extension=ts&play_token=25RCFriP2r|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314401" tvg-name="|TR| KANAL 68",|TR| KANAL 68
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314401&extension=ts&play_token=vs8rNZYcw8|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314396" tvg-name="|TR| ES TV",|TR| ES TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314396&extension=ts&play_token=hX9vWLXtub|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  YEREL" tvg-id="314402" tvg-name="|TR| KANAL URFA",|TR| KANAL URFA
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314402&extension=ts&play_token=qn9mUSTEgI|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="170673" tvg-name="|TR| TRT HABER ᵁᴴᴰ",|TR| TRT HABER ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170673&extension=ts&play_token=Q3jHKLn1mR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="196809" tvg-name="|TR|  TRT HABER ᴴᴰ",|TR|  TRT HABER ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196809&extension=ts&play_token=pjI52SLU55|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="10785" tvg-name="|TR| TRT HABER",|TR| TRT HABER
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10785&extension=ts&play_token=b59XfRNY4i|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="1236190" tvg-name="|TR|  iLKE TV ʜᴅ",|TR|  iLKE TV ʜᴅ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=1236190&extension=ts&play_token=vpLdU0XOx4|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="170676" tvg-name="|TR| NTV HABER ᵁᴴᴰ",|TR| NTV HABER ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170676&extension=ts&play_token=jEaDNB3TIK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="196797" tvg-name="|TR|  NTV ᴴᴰ",|TR|  NTV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196797&extension=ts&play_token=seavEytZ12|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="10756" tvg-name="|TR| NTV HABER",|TR| NTV HABER
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10756&extension=ts&play_token=ipm4Sr0k8M|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="314430" tvg-name="|TR| SÖZCÜ SZC TV",|TR| SÖZCÜ SZC TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314430&extension=ts&play_token=Z57m6h2rIU|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="170672" tvg-name="|TR| CNN TÜRK ᵁᴴᴰ",|TR| CNN TÜRK ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170672&extension=ts&play_token=lUF3bJ4tho|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="196798" tvg-name="|TR|  CNN TÜRK ᴴᴰ",|TR|  CNN TÜRK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196798&extension=ts&play_token=HlqEoC68lJ|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="10777" tvg-name="|TR| CNN TURK",|TR| CNN TURK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10777&extension=ts&play_token=FJ3GKiRtVa|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="314417" tvg-name="|TR| HABER GLOBAL ᴴᴰ",|TR| HABER GLOBAL ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314417&extension=ts&play_token=Dqp5ziUwZe|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="10755" tvg-name="|TR| TGRT HABER",|TR| TGRT HABER
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10755&extension=ts&play_token=0nUYb56pTD|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  HABER" tvg-id="170677" tvg-name="|TR| TGRT HABER ᵁᴴᴰ",|TR| TGRT HABER ᵁᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=170677&extension=ts&play_token=yiG3VZBEGR|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="10786" tvg-name="|TR| TRT DIYANET",|TR| TRT DIYANET
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10786&extension=ts&play_token=d35UiGZLV3|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314437" tvg-name="|TR| VAV TV ᴴᴰ",|TR| VAV TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314437&extension=ts&play_token=UPw4WiSpEj|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="196861" tvg-name="|TR|  SEMERKAND ᴴᴰ",|TR|  SEMERKAND ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196861&extension=ts&play_token=Xs0vcA2nQT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="185789" tvg-name="|TR| LALEGUL TV",|TR| LALEGUL TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=185789&extension=ts&play_token=A37BHYlPZy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314431" tvg-name="|TR| FM TV ᴴᴰ",|TR| FM TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314431&extension=ts&play_token=cJc5YBIanb|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314432" tvg-name="|TR| KUDUS TV",|TR| KUDUS TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314432&extension=ts&play_token=K399DFJMvT|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314433" tvg-name="|TR| REHBER TV",|TR| REHBER TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314433&extension=ts&play_token=6g3I4qBmxK|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314434" tvg-name="|TR| DOST TV",|TR| DOST TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314434&extension=ts&play_token=5s87V26Jes|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314435" tvg-name="|TR| KABE TV",|TR| KABE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314435&extension=ts&play_token=P7zugE7FOM|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314438" tvg-name="|TR| MEDINE TV",|TR| MEDINE TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314438&extension=ts&play_token=7UTLGbkV0O|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314436" tvg-name="|TR| VUSLAT TV",|TR| VUSLAT TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314436&extension=ts&play_token=dt2HL6siio|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314440" tvg-name="|TR| VUSLAT TV",|TR| VUSLAT TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314440&extension=ts&play_token=p3SSjhVbc1|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  DIN" tvg-id="314439" tvg-name="|TR| MELTEM TV",|TR| MELTEM TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314439&extension=ts&play_token=8KzwCtKfaP|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  RADIO" tvg-id="314374" tvg-name="NUMBERONE FM TURK",NUMBERONE FM TURK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314374&extension=ts&play_token=oYgiWYXOYY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  RADIO" tvg-id="314375" tvg-name="NUMBERONE FM",NUMBERONE FM
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314375&extension=ts&play_token=wFj2ui1p9a|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314387" tvg-name="|TR| LIVING MUSIC ᴴᴰ",|TR| LIVING MUSIC ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314387&extension=ts&play_token=zNekJdlUGy|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314388" tvg-name="|TR| LIVING SOMINE",|TR| LIVING SOMINE
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314388&extension=ts&play_token=bSyAvDMNRA|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314386" tvg-name="|TR| KRAL TV ᴴᴰ",|TR| KRAL TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314386&extension=ts&play_token=TfSzOu5JZD|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314385" tvg-name="|TR| KRALPOP ᴴᴰ",|TR| KRALPOP ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314385&extension=ts&play_token=uTnPHufp5c|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314376" tvg-name="|TR| KRALPOP ᴴᴰ",|TR| KRALPOP ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314376&extension=ts&play_token=VFnEDkOkx7|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314377" tvg-name="|TR| NR1 TURK ᴴᴰ",|TR| NR1 TURK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314377&extension=ts&play_token=CqtVk3Nhhj|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314378" tvg-name="|TR| DREAM TURK ᴴᴰ",|TR| DREAM TURK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314378&extension=ts&play_token=NNsbPyg0rX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314379" tvg-name="|TR| NR1 ᴴᴰ",|TR| NR1 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314379&extension=ts&play_token=HWhdt34Ttr|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="10728" tvg-name="|TR| POWERTURK",|TR| POWERTURK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10728&extension=ts&play_token=fjaB6OlBzY|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314380" tvg-name="|TR| POWER TV ᴴᴰ",|TR| POWER TV ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314380&extension=ts&play_token=nr9peuDz65|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314382" tvg-name="|TR| VATAN TV",|TR| VATAN TV
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314382&extension=ts&play_token=60R928XIcF|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="314383" tvg-name="|TR| ANADOLU DERNEK",|TR| ANADOLU DERNEK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=314383&extension=ts&play_token=YrpZWhc6mm|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="10784" tvg-name="|TR| TRT MUZIK",|TR| TRT MUZIK
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=10784&extension=ts&play_token=VUUUPOTVFa|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|TR|  MUZIK" tvg-id="196813" tvg-name="|TR|  TRT MUZIK ᴴᴰ",|TR|  TRT MUZIK ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=196813&extension=ts&play_token=G0pVHNxHXX|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280687" tvg-name="|US| BEIN SPORTS XTRA ᴴᴰ",|US| BEIN SPORTS XTRA ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280687&extension=ts&play_token=lnjWI5XNlc|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280688" tvg-name="|US| BEIN SPORTS ᴴᴰ",|US| BEIN SPORTS ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280688&extension=ts&play_token=C4lf8luGWf|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280689" tvg-name="|US| BEIN SPORTS 4 ᴴᴰ",|US| BEIN SPORTS 4 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280689&extension=ts&play_token=T6cvPgpM2T|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280690" tvg-name="|US| BEIN SPORTS 5 ᴴᴰ",|US| BEIN SPORTS 5 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280690&extension=ts&play_token=xtdLFHImSg|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280691" tvg-name="|US| BEIN SPORTS 6 ᴴᴰ",|US| BEIN SPORTS 6 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280691&extension=ts&play_token=5ccIwW85fG|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280692" tvg-name="|US| BEIN SPORTS 7 ᴴᴰ",|US| BEIN SPORTS 7 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280692&extension=ts&play_token=jFqH7xQ07z|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280693" tvg-name="|US| BEIN SPORTS 8 ᴴᴰ",|US| BEIN SPORTS 8 ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280693&extension=ts&play_token=Zs9GBAglSq|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
+#EXTINF:-1 group-title="|US|  BEIN SPORTS" tvg-id="280694" tvg-name="|US| BEIN SPORTS EN ESPANOL ᴴᴰ",|US| BEIN SPORTS EN ESPANOL ᴴᴰ
+http://d4k4u.com:80/play/live.php?mac=00:1A:79:AC:51:80&stream=280694&extension=ts&play_token=CYNZsbPQQH|User-Agent=Mozilla/5.0%20%28QtEmbedded%3B%20U%3B%20Linux%3B%20C%29%20AppleWebKit/533.3%20%28KHTML%2C%20like%20Gecko%29%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari/533.3
