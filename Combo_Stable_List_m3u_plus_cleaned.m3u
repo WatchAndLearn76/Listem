@@ -557,7 +557,7 @@ http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1B:9F&stream=821534&exte
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1B:9F&stream=821533&extension=ts
 #EXTINF:-1 tvg-name="XXX: ASIAN ADULT" group-title="For Adults",XXX: ASIAN ADULT
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1B:9F&stream=821531&extension=ts
-#EXTINF:-1 tvg-name="Fäbodjäntan (1978) [XXX]" group-title="Adults (VOD)",Fäbodjäntan (1978) [XXX]
+#EXTINF:0$1 tvg-name="Fäbodjäntan (1978) [XXX]" group-title="Adults (VOD)",Fäbodjäntan (1978) [XXX]
 http://fullhdtv.link:8080/play/movie.php?mac=10:27:BE:24:1B:9F&stream=1041757.mkv&type=movie
 #EXTINF:-1 tvg-name="Swinging Bi-Style 2 (2020) [XXX]" group-title="Adults (VOD)",Swinging Bi-Style 2 (2020) [XXX]
 http://fullhdtv.link:8080/play/movie.php?mac=10:27:BE:24:1B:9F&stream=826278.mkv&type=movie
