@@ -1,0 +1,343 @@
+#EXTM3U
+#EXTINF:-1 group-title="Turkey",TR: Tele 1
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=769235&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: ATV HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766532&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: ATV Avrupa
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766531&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Star TV HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766529&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Show TV 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766528&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal D HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766527&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: FOX HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766526&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal 7 HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766525&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TV8 HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766523&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TV8 ᴿᴬᵂ
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766522&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Euro Star
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766521&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT 1 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766519&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT 1 HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766518&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal 7 Avrupa 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766517&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: BEYAZ TV 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766516&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Teve 2 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766515&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Show Max
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766514&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: A2 Turkiya 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766513&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TV8.5 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766512&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT Diyanet TV HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766509&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT Turk 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766508&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT World 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766507&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TGRT EU
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766506&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TGRT Belgesel
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766505&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: 360 TV 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766504&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Al Turkmenia TV
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766501&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TURKMENELI TV 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766500&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Ulusal Kanal
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766499&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Blommberg HT 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766497&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Blommberg HT HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766496&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: BRT 1 KKTC 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766495&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: BRT 2 KKTC 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766494&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: 24 TV 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766490&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: 24 KITCHEN
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766489&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: CNN Turk 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766488&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: BRTV Karabuk
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766483&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: ER TV
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766482&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Gonca TV
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766481&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal 15
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766480&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal B
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766476&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Kanal V
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766475&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Lalegul TV
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766473&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Mavi Karad
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766472&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Mavi Karadeniz
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766471&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: RTV Kanal 23
+http://localhost/ch/766469_
+#EXTINF:-1 group-title="Turkey",TR: Sat 7 Turk
+http://localhost/ch/766467_
+#EXTINF:-1 group-title="Turkey",TR: Turk Haber
+http://localhost/ch/766463_
+#EXTINF:-1 group-title="Turkey",TR: TV 41
+http://localhost/ch/766462_
+#EXTINF:-1 group-title="Turkey",TR: TV DEN HD
+http://localhost/ch/766461_
+#EXTINF:-1 group-title="Turkey",TR: TV2 4K
+http://localhost/ch/766459_
+#EXTINF:-1 group-title="Turkey",TR: TV4 4K
+http://localhost/ch/766458_
+#EXTINF:-1 group-title="Turkey",TR: TRT EBA TV ORTAOKUL
+http://localhost/ch/766455_
+#EXTINF:-1 group-title="Turkey",TR: TRT AVAZ TV HD
+http://localhost/ch/766454_
+#EXTINF:-1 group-title="Turkey",TR: ES TV
+http://localhost/ch/766453_
+#EXTINF:-1 group-title="Turkey",TR: Dost TV
+http://localhost/ch/766451_
+#EXTINF:-1 group-title="Turkey",TR: TRT Çocuk 4K
+http://localhost/ch/766450_
+#EXTINF:-1 group-title="Turkey",TR: TRT Diyanet Cocuk HD
+http://localhost/ch/766449_
+#EXTINF:-1 group-title="Turkey",TR: Minika Cocuk
+http://localhost/ch/766447_
+#EXTINF:-1 group-title="Turkey",TR: Carton Network
+http://localhost/ch/766446_
+#EXTINF:-1 group-title="Turkey",TR: Disney Junior HD
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766444&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: Zarok TV
+http://localhost/ch/766442_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 1 ÇOCUKLAR 4K
+http://localhost/ch/766440_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 2 ÇOCUKLAR 4K
+http://localhost/ch/766439_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 3 ÇOCUKLAR 4K
+http://localhost/ch/766438_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 4 ÇOCUKLAR 4K
+http://localhost/ch/766437_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 5 ÇOCUKLAR 4K
+http://localhost/ch/766436_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 6 ÇOCUKLAR 4K
+http://localhost/ch/766435_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 7 ÇOCUKLAR 4K
+http://localhost/ch/766434_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 8 ÇOCUKLAR 4K
+http://localhost/ch/766433_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 9 ÇOCUKLAR 4K
+http://localhost/ch/766432_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 10 ÇOCUKLAR 4K
+http://localhost/ch/766431_
+#EXTINF:-1 group-title="Turkey",TR: ATV 4K
+http://localhost/ch/766430_
+#EXTINF:-1 group-title="Turkey",TR: A2 Turkiya HD
+http://localhost/ch/766429_
+#EXTINF:-1 group-title="Turkey",TR: Kanal 7 4K
+http://localhost/ch/766426_
+#EXTINF:-1 group-title="Turkey",TR: Kanal D 4K
+http://localhost/ch/766425_
+#EXTINF:-1 group-title="Turkey",TR: Teve 2 HD
+http://localhost/ch/766424_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 1 HD TR
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=789948&extension=ts
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 1 FHD TR
+http://localhost/ch/789949_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 2 HD TR
+http://localhost/ch/789950_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 2 FHD TR
+http://localhost/ch/789951_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 3 HD TR
+http://localhost/ch/789952_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 3 FHD TR
+http://localhost/ch/789953_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 4 HD TR
+http://localhost/ch/789954_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 4 FHD TR
+http://localhost/ch/789955_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS 5 HD TR
+http://localhost/ch/789956_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS MAX 1 TR
+http://localhost/ch/775069_
+#EXTINF:-1 group-title="Turkey",beIN SPORTS MAX 2 TR
+http://localhost/ch/775070_
+#EXTINF:-1 group-title="Turkey",TR: BEIN BOX OFFICE 1 4K
+http://localhost/ch/766422_
+#EXTINF:-1 group-title="Turkey",TR: BEIN BOX OFFICE 2 4K
+http://localhost/ch/766421_
+#EXTINF:-1 group-title="Turkey",TR: BEIN BOX OFFICE 3 4K
+http://localhost/ch/766420_
+#EXTINF:-1 group-title="Turkey",TR: BEIN MOVIES STARS 4K
+http://localhost/ch/766417_
+#EXTINF:-1 group-title="Turkey",TR: BEIN MOVIES FAMILY 4K
+http://localhost/ch/766415_
+#EXTINF:-1 group-title="Turkey",TR: Bein MOVIES FAMILY 4K
+http://localhost/ch/766414_
+#EXTINF:-1 group-title="Turkey",TR: Bein MOVIES PRMIERE 4K
+http://localhost/ch/766413_
+#EXTINF:-1 group-title="Turkey",TR: Bein MOVIES PREMIERE 2 4K
+http://localhost/ch/766412_
+#EXTINF:-1 group-title="Turkey",TR: BEIN SERIES VICE 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766409&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX PREMIER ᴴᴰ
+http://localhost/ch/766395_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX ACTION ᴴᴰ
+http://localhost/ch/766394_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX FANTASTIC ᴴᴰ
+http://localhost/ch/766393_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX FAMILY ᴴᴰ
+http://localhost/ch/766391_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX DRAMA ᴴᴰ
+http://localhost/ch/766387_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX CUNEYT ARKIN ᴴᴰ
+http://localhost/ch/766386_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX TARIK AKAN ᴴᴰ
+http://localhost/ch/766383_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX ZEKI & METIN ᴴᴰ
+http://localhost/ch/766382_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX SENER SEN ᴴᴰ
+http://localhost/ch/766381_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX YESILCAM ᴴᴰ
+http://localhost/ch/766380_
+#EXTINF:-1 group-title="Turkey",TR: FILMBOX YERLI ᴴᴰ
+http://localhost/ch/766379_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 1 FİLMLER 4K
+http://localhost/ch/766378_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 2 FİLMLER 4K
+http://localhost/ch/766377_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 3 FİLMLER 4K
+http://localhost/ch/766376_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 4 FİLMLER 4K
+http://localhost/ch/766375_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 5 FİLMLER 4K
+http://localhost/ch/766374_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 6 FİLMLER 4K
+http://localhost/ch/766373_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 7 FİLMLER 4K
+http://localhost/ch/766372_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 8 FİLMLER 4K
+http://localhost/ch/766371_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 9 FİLMLER 4K
+http://localhost/ch/766370_
+#EXTINF:-1 group-title="Turkey",TR: beIN OD 10 FİLMLER 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766369&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT Haber 4K
+http://localhost/ch/766368_
+#EXTINF:-1 group-title="Turkey",TR: Haber Turk HD
+http://localhost/ch/766366_
+#EXTINF:-1 group-title="Turkey",TR: NTV 4K
+http://localhost/ch/766365_
+#EXTINF:-1 group-title="Turkey",TR: Halk TV
+http://localhost/ch/766362_
+#EXTINF:-1 group-title="Turkey",TR: CNN Turk 4K
+http://localhost/ch/766360_
+#EXTINF:-1 group-title="Turkey",TR: SZC TV 4K
+http://localhost/ch/766359_
+#EXTINF:-1 group-title="Turkey",TR: CNN Turk HD
+http://localhost/ch/766358_
+#EXTINF:-1 group-title="Turkey",TR: A Haber 4K
+http://localhost/ch/766357_
+#EXTINF:-1 group-title="Turkey",TR: A Para 4K
+http://localhost/ch/766356_
+#EXTINF:-1 group-title="Turkey",TR: Medya Haber
+http://localhost/ch/766352_
+#EXTINF:-1 group-title="Turkey",TR: Kanal T
+http://localhost/ch/766350_
+#EXTINF:-1 group-title="Turkey",TR: A News 4K
+http://localhost/ch/766349_
+#EXTINF:-1 group-title="Turkey",TR VIP: EUROSPORT 1 HD+
+http://localhost/ch/766265_
+#EXTINF:-1 group-title="Turkey",TR VIP: EUROSPORT 2 HD+
+http://localhost/ch/766264_
+#EXTINF:-1 group-title="Turkey",TR VIP: FB TV HD
+http://localhost/ch/766259_
+#EXTINF:-1 group-title="Turkey",TR VIP: S SPORT 1 HD
+http://localhost/ch/766250_
+#EXTINF:-1 group-title="Turkey",TR VIP: S SPORT 2 HD
+http://localhost/ch/766249_
+#EXTINF:-1 group-title="Turkey",TR VIP: SPOR SMART 1 4K
+http://localhost/ch/766248_
+#EXTINF:-1 group-title="Turkey",TR VIP: SPOR SMART 2 4K
+http://localhost/ch/766247_
+#EXTINF:-1 group-title="Turkey",TR VIP: SPORTS TV
+http://localhost/ch/766246_
+#EXTINF:-1 group-title="Turkey",TR VIP: A SPOR HD+
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766245&extension=ts
+#EXTINF:-1 group-title="Turkey",TR VIP: TIVIBU SPOR 1 4K
+http://localhost/ch/766244_
+#EXTINF:-1 group-title="Turkey",TR VIP: TIVIBU SPOR 2 4K
+http://localhost/ch/766243_
+#EXTINF:-1 group-title="Turkey",TR VIP: TIVIBU SPOR 3 4K
+http://localhost/ch/766242_
+#EXTINF:-1 group-title="Turkey",TR VIP: TRT SPOR YıLDıZ HD+
+http://localhost/ch/766241_
+#EXTINF:-1 group-title="Turkey",TR: HABER GLOBAL 4K
+http://localhost/ch/766240_
+#EXTINF:-1 group-title="Turkey",TR: TRT SPOR 4K
+http://localhost/ch/766239_
+#EXTINF:-1 group-title="Turkey",TR: TRT SPOR 4K+
+http://localhost/ch/766238_
+#EXTINF:-1 group-title="Turkey",TR: TRT SPOR RAW
+http://localhost/ch/766237_
+#EXTINF:-1 group-title="Turkey",TR: DISCOVERY SCIENCE HD
+http://localhost/ch/766228_
+#EXTINF:-1 group-title="Turkey",TR: DISCOVERY SCIENCE
+http://localhost/ch/766227_
+#EXTINF:-1 group-title="Turkey",TR: DISCOVERY ID 4K
+http://localhost/ch/766226_
+#EXTINF:-1 group-title="Turkey",TR: HISTORY 4K
+http://localhost/ch/766220_
+#EXTINF:-1 group-title="Turkey",TR: TRT Belgelel 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766219&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TLC 4K
+http://localhost/ch/766218_
+#EXTINF:-1 group-title="Turkey",TR: TRT BELGESEL 4K
+http://localhost/ch/766217_
+#EXTINF:-1 group-title="Turkey",TR: TLC HD
+http://localhost/ch/766216_
+#EXTINF:-1 group-title="Turkey",TR: FOX 4K
+http://localhost/ch/766211_
+#EXTINF:-1 group-title="Turkey",TR: KANAL D 4K
+http://localhost/ch/766210_
+#EXTINF:-1 group-title="Turkey",TR: KANAL 7 4K
+http://localhost/ch/766209_
+#EXTINF:-1 group-title="Turkey",TR: A2 TURKIYA 4K
+http://localhost/ch/766206_
+#EXTINF:-1 group-title="Turkey",TR: TEVE 2 4K
+http://localhost/ch/766205_
+#EXTINF:-1 group-title="Turkey",TR: TRT 1 4K
+http://localhost/ch/766204_
+#EXTINF:-1 group-title="Turkey",TR: TRT DIYANET TV 4K
+http://localhost/ch/766202_
+#EXTINF:-1 group-title="Turkey",TR: TRT TURK 4K
+http://localhost/ch/766201_
+#EXTINF:-1 group-title="Turkey",TR: TRT WORLD 4K
+http://localhost/ch/766200_
+#EXTINF:-1 group-title="Turkey",TR: TRT HABER 4K
+http://localhost/ch/766199_
+#EXTINF:-1 group-title="Turkey",TR: TRT BELGELEL 4K
+http://localhost/ch/766197_
+#EXTINF:-1 group-title="Turkey",TR: TRT BELGESEL 4K
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:1E:B2&stream=766196&extension=ts
+#EXTINF:-1 group-title="Turkey",TR: TRT MUZIK 4K
+http://localhost/ch/766195_
+#EXTINF:-1 group-title="Turkey",TR: TRT SPORT 4K
+http://localhost/ch/766194_
+#EXTINF:-1 group-title="Turkey",TR: TLC 4K
+http://localhost/ch/766189_
+#EXTINF:-1 group-title="Turkey",TR: BRT 1 KKTC 4K
+http://localhost/ch/766188_
+#EXTINF:-1 group-title="Turkey",TR: BRT 2 KKTC 4K
+http://localhost/ch/766187_
